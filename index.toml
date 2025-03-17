@@ -1329,6 +1329,11 @@ hash = "bf0ed97c305098e106f563cb965ef85988a8d0aac9c7e72db28486a19bf59c76"
 metafile = true
 
 [[files]]
+file = "mods/simple-weather.pw.toml"
+hash = "59a7ffcb97ff5fc001a763001c327dcf2699ac32db9356f016daeb32876b4dc3"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "693730f1285148c60732c5d97a8906964c5e9bc88cdc9576d1fb8b8def95bf68"
 metafile = true
@@ -1450,7 +1455,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "f554c5fc6cb0892578434319c477a16bd9a7da3a01050e8c3d314c1784c98a51"
+hash = "6b42d54824b9b43b1f558d446fc448e49b64976959d31b59cf8dfac5cd5f6a10"
 metafile = true
 
 [[files]]
