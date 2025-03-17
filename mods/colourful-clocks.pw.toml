@@ -1,0 +1,13 @@
+name = "Colourful Clocks"
+filename = "colourfulclocks-neoforge-1.21.1-0.1.4-beta.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b7f3405ef2ed81c4860343e2b692a29754ece0c6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6050026
+project-id = 1171143

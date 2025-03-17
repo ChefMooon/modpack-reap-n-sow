@@ -1,0 +1,13 @@
+name = "kruemeliges 3D Chiseled Bookshelves"
+filename = "kruemeliges_3D_Chiseled_BookShelvesV1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bc3c523e7a24b1b2f7d0163b03c8833ccbd13e0d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5009546
+project-id = 958037
