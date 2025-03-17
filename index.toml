@@ -10,7 +10,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ab6f21fb944798e76c480a2fc5104cc15f1cbe6da4470be8f387aa58dba48167"
+hash = "61693113e815ad13b9d9d11ff689a7177e295518855d0cf97519bc758c3c5746"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -706,7 +706,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "421302ecdfb2d876494dda942838b92681d1e9cbcee23aff3b0431a6a29d7b30"
+hash = "5e3055002224ec5b0f2d1ea5ad1f0b7350161dda6fd2e21eabcec409cc4cbaa5"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -1455,12 +1455,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "c30f3d906645c33269354bc6585139854a8fac66f9dace3c044e185b7f9bb291"
+hash = "cca27078b7075d2dd7bf5f1a010395c799cf772cdf2a12bf51e94e2d91682c6a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "34f4cf50c5c1780ceb558de500bddb313e1e09dac4fc5f8f2ef937ea1d682820"
+hash = "6efd0841c48e4e5e58b95fdc3038ee8ace0f97d787d7e57fe6d2e2ab78503fb2"
 metafile = true
 
 [[files]]
