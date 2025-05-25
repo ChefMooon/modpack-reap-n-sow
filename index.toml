@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/appleskin-client.toml"
+hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
