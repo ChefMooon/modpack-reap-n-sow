@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "054267e451f86286659c1a53112ecca52fd83e18c7cb3fc9655c20fb889490f9"
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
@@ -743,10 +739,6 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "6efd0841c48e4e5e58b95fdc3038ee8ace0f97d787d7e57fe6d2e2ab78503fb2"
 metafile = true
-
-[[files]]
-file = "options.txt"
-hash = "c210c865ff6e78a0c97d465bb456fa893a3d247917f154abbf373ab41049b05e"
 
 [[files]]
 file = "reap_n_sow_title_square.png"
