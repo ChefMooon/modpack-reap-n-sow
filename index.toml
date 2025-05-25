@@ -213,16 +213,16 @@ file = "config/fancymenu/assets/banner.png"
 hash = "5594c0f6ac2bbc737fa78d400ca6019484c80ad33878883b08c28b8d89ad2776"
 
 [[files]]
-file = "config/fancymenu/assets/cultivate_title.png"
-hash = "aa45ccde23a8165d84d40921ff502e5b3ef6b16bdb174767c0f285d752ff29ae"
-
-[[files]]
 file = "config/fancymenu/assets/loading_background.png"
 hash = "2a6cc60936829dc2bf29305ff64fe1b1b229df7bf2812aa6f03ede43f9a0254d"
 
 [[files]]
 file = "config/fancymenu/assets/loading_bar.png"
 hash = "736f614b79436670fbb253494c76e1c5c2f0541cbbf843af077dd9b08e59c72c"
+
+[[files]]
+file = "config/fancymenu/assets/reap_n_sow_title.png"
+hash = "78d05834b22ebae75a37f7a2d198ee36d942fb4862316d8577514b670d31a932"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -234,11 +234,11 @@ hash = "a474ea7af5a5f1e5b18ebf6838cf75db9fbad4227460e4572f2bfd9838d276d9"
 
 [[files]]
 file = "config/fancymenu/customization/cultivate_loading_overlay_layout.txt"
-hash = "1678a07ef891f019bd39ca6e8c4929349b05404b482211cfc045f1647629c05e"
+hash = "13d4a85ea47c9349fcaa58900f1deddbb8e2ec1a0953cbe4e492056cf015b386"
 
 [[files]]
 file = "config/fancymenu/customization/cultivate_title_screen_layout.txt"
-hash = "e8b0ff8b9e6eb1ab3477f910e4bf0069979bbe87e3819c3957ed6e792cd11539"
+hash = "fdd74f2077a5985b20e551ace0d301a8e81ac72874730977d1bf63e818fac6d2"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -250,11 +250,11 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "650365ab2f46f06eacdf7be9e5b97fd8bd0ea117d5d7464f4978f16466ae402a"
+hash = "c97c94f899bc7e0b374c58d26770b4e4b1c6c381fb4348799dbe846b9ed3ad41"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
-hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
 
 [[files]]
 file = "config/fancymenu/ui_themes/light.json"
