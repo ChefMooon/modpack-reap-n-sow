@@ -1,2 +1,4 @@
-# Exclude README
-/README.md
+.git/**
+.gitattributes
+.gitignore
+README.md
