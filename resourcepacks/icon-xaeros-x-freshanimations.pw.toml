@@ -1,0 +1,13 @@
+name = "Icon Xaero's X FreshAnimations"
+filename = "Icon Fresh 1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6648f8ed3855c3b2776f877a632dd0985a36b54d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6272784
+project-id = 1159273

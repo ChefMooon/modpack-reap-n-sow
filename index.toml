@@ -1477,23 +1477,13 @@ file = "reap_n_sow_title_square.png"
 hash = "ab8695166bae6706ab01c3e2f94821ce69840c7f693853d7168dc6bc48059702"
 
 [[files]]
-file = "resourcepacks/cubic-stars.pw.toml"
-hash = "a8b0d3f0a3cecd7d40df5c836964cb9000bfaa1473bb6978fdea026d0f7673e4"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "a837a6ef76177cd45f425ed3a72fef3454c761fda77507d8f1943ddabf54e8df"
 metafile = true
 
 [[files]]
-file = "resourcepacks/icon-xaeros.pw.toml"
-hash = "865f6a441ecc6d625cf36ae37f0239e0a6eace89451748847ce7c1a6847782b5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/kruemeliges-3d-chiseled-bookshelves.pw.toml"
-hash = "d31552a2ae81bd897f0c8f377686d557a7b75b59bc72b605fabb0b65b746e623"
+file = "resourcepacks/icon-xaeros-x-freshanimations.pw.toml"
+hash = "23dbe1d46ea5b0c5e553340dbb98e6474bb1080789ace02fdd9e58f02c99f41c"
 metafile = true
 
 [[files]]
