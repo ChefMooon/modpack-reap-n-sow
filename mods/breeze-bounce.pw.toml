@@ -1,13 +1,13 @@
 name = "Breeze Bounce"
-filename = "breezebounce-neoforge-1.21.1-1.1.2.jar"
+filename = "breezebounce-neoforge-1.21.1-1.2.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a2bbd91aaa277fc5d1da7465c5c207a60c4a1a6d"
+hash = "defe7a122e44def262e91156d8f2a421fdd38b34"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5997526
+file-id = 6355641
 project-id = 1097968

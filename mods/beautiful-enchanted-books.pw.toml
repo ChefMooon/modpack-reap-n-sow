@@ -1,13 +1,13 @@
-name = "Beautiful Enchanted Books [MOD EDITION] | 3.0 UPDATE! - "
-filename = "BEB-NeoForge-1.21-2.0.0.jar"
+name = "Beautiful Enchanted Books [MOD EDITION] | 4.0 UPDATE!"
+filename = "BEB-NeoForge-1.21-4.0.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3dd4c51a89796e1ef62db53a235c4d799b4f653c"
+hash = "f28f01bb150362b2a6c2cbadb716f3ca1a74b7f4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5996730
+file-id = 6481369
 project-id = 1083202

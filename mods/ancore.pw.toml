@@ -1,13 +1,13 @@
 name = "AnCore Lib"
-filename = "ancore-1.0.3-neoforge-1.21.1.jar"
+filename = "ancore-2025.3.2.1-neoforge-1.21.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "1ac6ec5fb93a18c684dd04fe201d218bb0d2a693"
+hash = "505e7d529b7cd5ea35386c556838212365489275"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5689030
+file-id = 6359595
 project-id = 1083162
