@@ -6,7 +6,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1ac7e26dd235d51cb4e99d98e856a44dda2111e84cb06b0f5e1af643d6a9134a"
+hash = "53551f5c23cb7cfbb761dce228a3d288337e25b95e4e1775e715e008774ca14d"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1002,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "af4180e064d0e78fe579ff7aa258ca6708f0a7fc70a45638161d1b9e4ce318b2"
+hash = "e74bb6700a9887dd57d628008493ddf491542f31a2fe5f45097216f313335aff"
 metafile = true
 
 [[files]]
