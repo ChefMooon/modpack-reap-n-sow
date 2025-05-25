@@ -1426,6 +1426,26 @@ hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "fd0b6eda6c64e8134b8a84a7262ef02553cda34e642f81d938ccd3e8013929ad"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "90108feb588b4d64d2b57edca150c5c594c38f3219d20317599d49060044edb9"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-in-motion.pw.toml"
+hash = "85026162ba0d81cdbefd95b3c8326676049138d978c5ef36f6132daa1ab3b187"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "3e8949e5b9311eb6ca679f7d833c86ca8057909792e9c7f8b98022ad708f289a"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "5465e1468402b0470574de3229bc8b3a37b3c3687815e050b22b0de4f48fa083"
 metafile = true

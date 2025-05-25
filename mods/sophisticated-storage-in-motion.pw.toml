@@ -1,0 +1,13 @@
+name = "Sophisticated Storage in Motion"
+filename = "sophisticatedstorageinmotion-1.21.1-0.10.17.101.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "04a7c3ad48564ebce6ed592b263c09e1c3dd0f58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6563004
+project-id = 1166930
