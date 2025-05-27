@@ -565,10 +565,6 @@ file = "config/sdrp-common.json"
 hash = "cc2fc5e4888159339bf39795225e173739c2be0665d517ce30ae6e02c6cf1484"
 
 [[files]]
-file = "config/simple_weather-client.toml"
-hash = "d59acd7834243e6c01ae1164ffb7d7196c0021312320a25158196ccb39ea47c1"
-
-[[files]]
 file = "config/skinlayers.json"
 hash = "91dda7ff0e6d52d1d99d8196cd5f5e3d165075c194e19344fa8a034ef39b6a4c"
 
@@ -898,6 +894,11 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "94aa3054f3f94ecd805079a721ff7f41ded9f1b739a303c130f98669a4deab14"
+metafile = true
+
+[[files]]
+file = "mods/bovines-and-buttercups.pw.toml"
+hash = "e2628446f5fbc473d314f3de5d167c78c61dd8d741e3963160b6d6b3014c7fbc"
 metafile = true
 
 [[files]]
