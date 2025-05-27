@@ -826,6 +826,11 @@ hash = "82c3b461be0802931ea487203861c7e792cafbb9fe85e95b960357746203985a"
 metafile = true
 
 [[files]]
+file = "mods/bamboo-everything.pw.toml"
+hash = "3effb34359c585283e5ece361fe420b0dbc30fd1b49a850eb5fa4aab35d4a611"
+metafile = true
+
+[[files]]
 file = "mods/basicweapons.pw.toml"
 hash = "4e0131ee6792665ac1abe9e7457f66cfb86c3ae9fe3e576f74a1ff131a4a09f0"
 metafile = true
@@ -833,6 +838,11 @@ metafile = true
 [[files]]
 file = "mods/beautiful-enchanted-books.pw.toml"
 hash = "8b204e6d4faf11ccae272823cbc6d43477586f82cf1eff02435fef6998535082"
+metafile = true
+
+[[files]]
+file = "mods/beautify-decorate.pw.toml"
+hash = "54f70c24912210d007d2640268704364c1464fec1fc11172c5a1c7cf62ffb609"
 metafile = true
 
 [[files]]
@@ -1090,6 +1100,11 @@ hash = "942b02525962980b6176677cca162d27c1210b686985ad11db0055fe39d42a7d"
 metafile = true
 
 [[files]]
+file = "mods/flower-patch.pw.toml"
+hash = "e4c19b685564ad8269c34bec7cd2f530b6e2ae19cbd0ca35b0a2d3965287d086"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "11bc4d2951f2bbb0dd17c77534f05c909987e19203398558713bc515f441d5a2"
 metafile = true
@@ -1147,6 +1162,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "65c3b1e2f2d1ec319303958c190801187b44e8b7d9fc5a6f24b61b6788cc6389"
+metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml"
+hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
 metafile = true
 
 [[files]]
@@ -1272,6 +1292,11 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "539a125e4923416c1aa7aee64f6f9b126347f8f3c26793f2f1920c5f2c315d4c"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "e9eaf185ed52bb7607433738aabef09bacffaaa51e134c7fd4dd97e686e84b8b"
 metafile = true
 
 [[files]]
@@ -1467,6 +1492,11 @@ metafile = true
 [[files]]
 file = "mods/tectonic.pw.toml"
 hash = "e3584bc2eb821acd12e1729d3944e57d7264c4ce8aad38555ceb5597009fa8ca"
+metafile = true
+
+[[files]]
+file = "mods/the-block-box.pw.toml"
+hash = "c8642cf1ac15e24a81e162845554b22ad392989e3045cf4966085ffaf48c5071"
 metafile = true
 
 [[files]]
