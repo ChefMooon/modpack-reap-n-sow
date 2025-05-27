@@ -717,42 +717,6 @@ file = "config/ubesdelight.json"
 hash = "124976ef4de47258fe865cc29cc4b0ac061fb7c6650d93f0ec42ce2694055308"
 
 [[files]]
-file = "config/waila/blacklist.json5"
-hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
-
-[[files]]
-file = "config/waila/debug.json5"
-hash = "e54d2423726125dd300297ea935fbfd82cf7c374fbd4ee2d85b7ba140e3ba97a"
-
-[[files]]
-file = "config/waila/extra/energy_blacklist.json5"
-hash = "e8243ffac9e64e2b025195ebfc4b1acafb98e5e89c0167e673470d65d4c31810"
-
-[[files]]
-file = "config/waila/extra/fluid_blacklist.json5"
-hash = "278e964061848df94ac89d7610987afe3d008f1ca5fe6119410dc2e07a2aca10"
-
-[[files]]
-file = "config/waila/extra/item_blacklist.json5"
-hash = "9ef0b7479c81e1a941eaa44fcdc571bdf9cb3ddb3d234a64f3dff0a8ccbda41e"
-
-[[files]]
-file = "config/waila/extra/progress_blacklist.json5"
-hash = "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4"
-
-[[files]]
-file = "config/waila/plugin_toggle.json5"
-hash = "0d216ce5a6dfc9c036bf6f499b4aa0bd407077eab36c52c2ece8d3a5c841f647"
-
-[[files]]
-file = "config/waila/waila.json5"
-hash = "ac1d4c12619741b5e987f6800d87b1d4561f0851010b4816c46908244e558c3f"
-
-[[files]]
-file = "config/waila/waila_plugins.json5"
-hash = "1d4cab60512918fd5a48416e8efce2f6936ff6af81b18ef4d941b697e89c8423"
-
-[[files]]
 file = "config/watut-client.toml"
 hash = "752d0ac238cfe92f30055ec8e417c98c309b07cd30467c22b16c90dc86cf228e"
 
@@ -1568,11 +1532,6 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "79d6d9e874b17cd48b2d543e3075fbac5aae940e37190d8e9afd0a5ecfd2ea7c"
-metafile = true
-
-[[files]]
-file = "mods/wthit-forge.pw.toml"
-hash = "13dcfb5e5f504f0739cde3c419e9665bc2be110c86e931bf7337248e5f11f7c4"
 metafile = true
 
 [[files]]
