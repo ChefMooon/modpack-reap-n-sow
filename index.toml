@@ -836,6 +836,11 @@ hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
@@ -1145,6 +1150,11 @@ hash = "7c66defddbd128f245433e61c5bf4350be7debcf21b216f36cfe81a9017b3d24"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "3d1397ec972ce70feef1a1148c2fe4ea982bca20b345d4c04bf6777209c582c6"
 metafile = true
@@ -1157,6 +1167,11 @@ metafile = true
 [[files]]
 file = "mods/hey-wiki.pw.toml"
 hash = "d7f336f82d1153e7311799dbddc9f71b36fa52aa4a038f128bb8792b67b91336"
+metafile = true
+
+[[files]]
+file = "mods/illager-invasion.pw.toml"
+hash = "0df4d594c97a09d3af58009cc93459afa4841b09c756f8fc71debfc83e36937d"
 metafile = true
 
 [[files]]
@@ -1305,11 +1320,6 @@ hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
 
 [[files]]
-file = "mods/modernfix.pw.toml"
-hash = "0d5e94bb74b906735c246fe2751bf8f492f7e2307b70ef368b2bd1e332b6fcb5"
-metafile = true
-
-[[files]]
 file = "mods/monolib.pw.toml"
 hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
 metafile = true
@@ -1375,11 +1385,6 @@ hash = "08c5f8baa25f2f83f5b816368ec63fc3bbb4c60a243d63386e2d58d8c43c9b75"
 metafile = true
 
 [[files]]
-file = "mods/polytone.pw.toml"
-hash = "2078af1a1e235847145cf8d2b655262f799244a95a9935759e38841846851c53"
-metafile = true
-
-[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6b8153ddabbacbde1bae8fe5b763fcf9aef674c7060a228a03b61d73bc5c3314"
 metafile = true
@@ -1392,6 +1397,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "aa83553db30adc47f86010f6443340251323a62ee3f9415a0c4332cb6d502419"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+hash = "c9a922044e42e497c2ce5e782c87d308b9ac7ec1d2dd2409e502ed899a818d91"
 metafile = true
 
 [[files]]
@@ -1417,11 +1427,6 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "bf0ed97c305098e106f563cb965ef85988a8d0aac9c7e72db28486a19bf59c76"
-metafile = true
-
-[[files]]
-file = "mods/simple-weather.pw.toml"
-hash = "59a7ffcb97ff5fc001a763001c327dcf2699ac32db9356f016daeb32876b4dc3"
 metafile = true
 
 [[files]]
@@ -1520,11 +1525,6 @@ hash = "f99688444af90cc07c2995cbf0fd09abe73411744583bd4cfd8703886a0c2744"
 metafile = true
 
 [[files]]
-file = "mods/tool-belt.pw.toml"
-hash = "aedf2d63eac9d47f5097bf5472e2f67bf7b2cf12d1ad6719e35e082cbd7acd5c"
-metafile = true
-
-[[files]]
 file = "mods/towntalk.pw.toml"
 hash = "a7074e8e499d34f5ce633dbd33f818e376dd1941ec5b1d97a33acd019df69b5a"
 metafile = true
@@ -1592,6 +1592,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "475adc324b5f3eb6d0714a441365570e209930d25a8a381b74b6c5c4cbcedcff"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-neoforge.pw.toml"
+hash = "8853594d1df424aea32d37bd2af2972dce252d7760160edbc7370cedffc9ef9c"
 metafile = true
 
 [[files]]
