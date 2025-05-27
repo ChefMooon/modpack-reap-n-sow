@@ -1150,11 +1150,6 @@ hash = "65c3b1e2f2d1ec319303958c190801187b44e8b7d9fc5a6f24b61b6788cc6389"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
-metafile = true
-
-[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
 metafile = true
