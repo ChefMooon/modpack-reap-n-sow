@@ -1290,6 +1290,11 @@ hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
+metafile = true
+
+[[files]]
 file = "mods/more-bows-and-arrows.pw.toml"
 hash = "849fc595156d9feaf5b38762fd0d6bea08e9e5b24071cf80f58e4f697639e631"
 metafile = true
@@ -1332,6 +1337,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d728d7cb790bf8a9fbbe4a0f0929092aa84e25975e4fdc0e9402a72e3d955a08"
+metafile = true
+
+[[files]]
+file = "mods/oxide.pw.toml"
+hash = "449b193d00923f42acc3f082fa5241b007155f6f938d0738e0b2338d9d4eb5a9"
 metafile = true
 
 [[files]]
