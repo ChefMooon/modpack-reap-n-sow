@@ -662,7 +662,7 @@ hash = "83819dbe17151dae77f70c6f0c1e4d2e64d5bc9c8beee5adca98fd01ac4e2145"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
+hash = "4e8d29f1f250e6df16a088b636fffa018152ee8953c062e4bf7ce70961f433a1"
 
 [[files]]
 file = "config/toms_peripherals-common.toml"
