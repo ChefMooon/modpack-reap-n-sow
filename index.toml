@@ -861,6 +861,11 @@ hash = "82c3b461be0802931ea487203861c7e792cafbb9fe85e95b960357746203985a"
 metafile = true
 
 [[files]]
+file = "mods/basicweapons.pw.toml"
+hash = "4e0131ee6792665ac1abe9e7457f66cfb86c3ae9fe3e576f74a1ff131a4a09f0"
+metafile = true
+
+[[files]]
 file = "mods/beautiful-enchanted-books.pw.toml"
 hash = "8b204e6d4faf11ccae272823cbc6d43477586f82cf1eff02435fef6998535082"
 metafile = true
@@ -873,6 +878,11 @@ metafile = true
 [[files]]
 file = "mods/better-climbing.pw.toml"
 hash = "a4719b5188f95b71055c14fdeb7c732c8669e2ef542bdafd63721275aa32a93e"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "61d4a634f8f97b96723a4fafa56612c1d78f4c9261574a72e01676b5763159e8"
 metafile = true
 
 [[files]]
@@ -1297,6 +1307,16 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "0d5e94bb74b906735c246fe2751bf8f492f7e2307b70ef368b2bd1e332b6fcb5"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
+metafile = true
+
+[[files]]
+file = "mods/more-bows-and-arrows.pw.toml"
+hash = "849fc595156d9feaf5b38762fd0d6bea08e9e5b24071cf80f58e4f697639e631"
 metafile = true
 
 [[files]]
