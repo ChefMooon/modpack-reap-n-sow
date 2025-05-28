@@ -918,6 +918,11 @@ hash = "54f70c24912210d007d2640268704364c1464fec1fc11172c5a1c7cf62ffb609"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "84fd12a30b0fecc1df5c03b6ec1bcbd6263211e65e17f24075a54773af6bfaff"
+metafile = true
+
+[[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "bb2700ce31fc7cd121ecf07f106302303ee366b7573b77bbdd97eee955233cda"
 metafile = true
@@ -1079,6 +1084,111 @@ metafile = true
 [[files]]
 file = "mods/crawl.pw.toml"
 hash = "f4f8b5eb8c1427b6bd83ca70a3dbec9845b8c5a37b9ba72b9a49ee0e45136562"
+metafile = true
+
+[[files]]
+file = "mods/create-aquatic-ambitions.pw.toml"
+hash = "4789399dc24ceb4fee6683249b47d50fb6c79daa5fa32a19c884903fbe9ba04d"
+metafile = true
+
+[[files]]
+file = "mods/create-confectionery.pw.toml"
+hash = "39d487bdf8979cc0b63a0d34ace0477e9aae5835e33fd9213aecca994025eca1"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+hash = "0017951b69312c714e7488ebe8345f77b662b802f62f0f29b9a8d6e87b1f9436"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "a96c4530432ddf08f92caf52e01d4142b697420d03d9e1e22722bcae7c9a556e"
+metafile = true
+
+[[files]]
+file = "mods/create-dragons-plus.pw.toml"
+hash = "609977810f00b11a4522fc96de8bf125be4a0ed066d354644dfc369adf7616a3"
+metafile = true
+
+[[files]]
+file = "mods/create-dreams-desires.pw.toml"
+hash = "0d08c029ca4fa0c2cf5b125e0f028847738c12f1868ce4faf8ce3b427462debf"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+hash = "8f5c0234b7ff63f22a4825ebd8a800dd9b66b67c3390d3139df80b6baada99cd"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantable-machinery.pw.toml"
+hash = "2d628b9ad710ef8b671bc68e386a711c62726761f91e5a755d98ee8afe5f0ac3"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+hash = "5a2bf142d0a4004eee45f11a1d2e2dcc638b78f4beb77a0413fd03139186f7d0"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+hash = "3ab146ce06fccc3076518269cac76bf22e298e1ef8023b6b2f19a03d8d607f16"
+metafile = true
+
+[[files]]
+file = "mods/create-garnished-reworked.pw.toml"
+hash = "2ccb391a7db9e512e51845f595f7c36af6cb7e48d5174fec22ecb0eba26b1b54"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+hash = "23c0693c49bfa88b0b04d429b8a6a582278078bcdb95ab36a14ac10deff9bbc0"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+hash = "785e070696bd8aa550d0bb2fab16144b48670cc65a78dbedd7ab32a41f05e6b7"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-vents.pw.toml"
+hash = "78aad9b2a50a79d81ff116a7566e9e68cf04bbad17427130b85e012b85bcc4f0"
+metafile = true
+
+[[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "d0a211ef1402714e4394134dd0b097a773a5ba116824129bb05480b8af846b98"
+metafile = true
+
+[[files]]
+file = "mods/create-oxidized.pw.toml"
+hash = "cde568a867601aaf6b779b6565bf2ed19f127fa1415f8d68f30b25b2dc70de42"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+hash = "f1e8b22f412b06eee32c2555922ba188dad9cae76d13dad46fa9080b2e763a5f"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "74442c7f308707605203dfdbd0d1b85c229149b1fdf68b5033855902361ffbe4"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.pw.toml"
+hash = "3a37f452485e16f15a044572da46c48891015ae86c78d8268cb77078e6ca4f4f"
+metafile = true
+
+[[files]]
+file = "mods/create-trading-floor.pw.toml"
+hash = "8a5b7137c6bad503430fead1753956624beb5bda285bc726193524f1e4ca33ba"
+metafile = true
+
+[[files]]
+file = "mods/create-wizardry.pw.toml"
+hash = "febcdbe48651c1683f0c70a25608c6f5cea2652a7e9accf2d0899d22298b5ca0"
 metafile = true
 
 [[files]]
@@ -1472,6 +1582,11 @@ hash = "c8d2e71be77ffef5020fb386c12e6cbbf0b9550f1b2722ebe3d57299e0f336fe"
 metafile = true
 
 [[files]]
+file = "mods/mechanicals-lib.pw.toml"
+hash = "8426eb2324730f27908835c7c97d8b5448068b294a3f3ad91d5a7fc63b728981"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
 metafile = true
@@ -1699,6 +1814,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "8d5628a4af0f355519b17bb0c6e5783c30aa78f6aa04b77b3892cd5d7c10af03"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+hash = "d858bb993e026455aead206047526de062dc2920db47770f8f3006da9b3382f7"
 metafile = true
 
 [[files]]
