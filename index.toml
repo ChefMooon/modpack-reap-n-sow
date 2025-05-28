@@ -876,6 +876,11 @@ hash = "94aa3054f3f94ecd805079a721ff7f41ded9f1b739a303c130f98669a4deab14"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf.pw.toml"
+hash = "3ec1401af35d6ee8a2592e01d4cd56682a09e74cd1ea9d59c6a9ccb39116b3cc"
+metafile = true
+
+[[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
 hash = "e2628446f5fbc473d314f3de5d167c78c61dd8d741e3963160b6d6b3014c7fbc"
 metafile = true
@@ -1380,6 +1385,11 @@ hash = "d728d7cb790bf8a9fbbe4a0f0929092aa84e25975e4fdc0e9402a72e3d955a08"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "b6aadb8e32f440b51cd958b68eee57b9fe5bab26c7cf2f56d0340cf7f593030f"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "64738b1594dc3753ed9a5e10420fadfcec61013d048cefc1ce94ddb540f8097e"
 metafile = true
@@ -1392,6 +1402,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "08c5f8baa25f2f83f5b816368ec63fc3bbb4c60a243d63386e2d58d8c43c9b75"
+metafile = true
+
+[[files]]
+file = "mods/prickle.pw.toml"
+hash = "5a355cacb43c599215f300c590829e86a7177ed5d62f3589918e2201532b1d41"
 metafile = true
 
 [[files]]
@@ -1527,6 +1542,11 @@ metafile = true
 [[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "c8642cf1ac15e24a81e162845554b22ad392989e3045cf4966085ffaf48c5071"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "982558183a6e7308597d5c97ba3415959aaa1af7967840f298f3be774ddddb37"
 metafile = true
 
 [[files]]
