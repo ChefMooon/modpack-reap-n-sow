@@ -974,8 +974,18 @@ hash = "b8446771b0d1d228cbc3034ef75e81e4e07627c74368624664acdf4daa9fbfba"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "b27a0261faa8d2472d9a41fa11370b7ae30dd2f141f3bcd0a117f7866db5d287"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "fbee29e0f3f046515c7f95bd69884feb70c7a381fa4803e0f35650db244121da"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+hash = "5f0d87ae88243df2390d5d8a2b0fdf312382ccae83084c9a1ba807c08fbcc013"
 metafile = true
 
 [[files]]
@@ -1080,6 +1090,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "757d82d85e87524e67e5f86a0e662b1b1263846d73d98f4da098730ee499ecdf"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "b8a573fb90e6416ad88c42041e2f148121749f3f2548b8b67c5d1c90fa608f08"
 metafile = true
 
 [[files]]
@@ -1298,6 +1313,11 @@ hash = "2bd52e5870ed1d6581147f498c945e1ae0296ff52580311dff179d8a836502e8"
 metafile = true
 
 [[files]]
+file = "mods/items-displayed-forge.pw.toml"
+hash = "80bc5ab1550840bfac0af6ae7a36909e758d92e996144e216166146abb99cf89"
+metafile = true
+
+[[files]]
 file = "mods/jamlib.pw.toml"
 hash = "888492de9de2384ae9b0b427624be6b004bc5882176d2c71d05d948d06cdb826"
 metafile = true
@@ -1490,6 +1510,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "9f4e2a67c3a794ed2208d24731513430c664a19cf28ef76583d4fa5ad6af6075"
 metafile = true
 
 [[files]]

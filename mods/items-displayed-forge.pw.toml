@@ -1,0 +1,13 @@
+name = "Items Displayed [NeoForge]"
+filename = "ItemsDisplayed-NeoForge-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6335fa187dea2ed8f9b09c366ae48c9513d26aac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6154249
+project-id = 937042
