@@ -779,6 +779,11 @@ hash = "db026135a8a23b2b660ebbfa8a85d06b26249305b2612bc2fab930e252100890"
 metafile = true
 
 [[files]]
+file = "mods/alshanexs-familiars.pw.toml"
+hash = "bbb19ac3da08e45c11f53c8452af415c10fabe6be0279a7ee030788894a3ad06"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "8e7bfd06ac6b09c14ba259a8afcc569f3fd13a2af1b626199bb9b12ce5d33c82"
 metafile = true
@@ -1193,6 +1198,11 @@ hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
 
 [[files]]
+file = "mods/geore.pw.toml"
+hash = "e1d5519a2c41230e50c3c0be8675b82ea7dafb026143b3cc4e7d7869f471f031"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "3d1397ec972ce70feef1a1148c2fe4ea982bca20b345d4c04bf6777209c582c6"
 metafile = true
@@ -1580,6 +1590,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "6d9eaf43c14c66465e87bf03cc5cb5ecef57b3f2e8063c52f6332d33689d30be"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
 metafile = true
 
 [[files]]
