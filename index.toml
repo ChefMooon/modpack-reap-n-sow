@@ -537,6 +537,10 @@ file = "config/openpartiesandclaims-server.toml"
 hash = "4d3a991d0f3b9c6dfde2c5c8ecf54968833f4e4a3cf728dc39af99634e3047e5"
 
 [[files]]
+file = "config/pfm.json"
+hash = "82d546bda445340c2d4a9b9450b28302f4f04b8adcce53638c8749fcbfdcaf2a"
+
+[[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
 hash = "079be54b7b6059b2864b3ed140dc1e20219589f6afba32dc4ff203c981ea6a4e"
 
@@ -769,6 +773,11 @@ file = "config/xaeroworldmap.txt"
 hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
+file = "mods/advanced-peripherals.pw.toml"
+hash = "d370dc4dd269f9a066b1e875bb5c5cc196b2f788a744aad6f466f21e24a11b3a"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "e6448befb831607b6f7522250c5f6f2bfd57c80b614467286465b248258c3939"
 metafile = true
@@ -819,6 +828,16 @@ hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
 
 [[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "a596f6f80425c4648be6c30036f5fb0f6437e7b043e53c4a0acb7b972b8d2426"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2.pw.toml"
+hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
 metafile = true
@@ -846,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/ars-creo.pw.toml"
 hash = "66b4f55088bbe3837e230e94fd2fc42b1b1553e8e15c64fc899f21a6887a1963"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "77c22c9c5acc1be0907e043a198e7c068823c6da58c566caac7110975dcf96cd"
 metafile = true
 
 [[files]]
@@ -1263,6 +1287,11 @@ hash = "e1d5519a2c41230e50c3c0be8675b82ea7dafb026143b3cc4e7d7869f471f031"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "c41200c4c8965c7268a0d66a427e6ddb415fd89d7429400ff5fe66ac0521d69c"
+metafile = true
+
+[[files]]
 file = "mods/hand-over-your-items.pw.toml"
 hash = "3d1397ec972ce70feef1a1148c2fe4ea982bca20b345d4c04bf6777209c582c6"
 metafile = true
@@ -1290,6 +1319,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
 hash = "51108048fd88cd4375b7f91c5327f8ec0d6eb3295ccb9011d42520784c175409"
+metafile = true
+
+[[files]]
+file = "mods/immersive-engineering.pw.toml"
+hash = "ee35fd60bffdc9b939efda82079672660249d58cbac4a88550cbc5c026bbec16"
 metafile = true
 
 [[files]]
@@ -1325,6 +1359,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "610b4bddf480c8630796ba04ff8f0094b58d12cf41cc292993dc65a83c2ae4b8"
+metafile = true
+
+[[files]]
+file = "mods/just-another-witchery-remake.pw.toml"
+hash = "26fae1546cc2738c84cfc3412f346f3272efc85356f2831748c0c0ce19ae541a"
 metafile = true
 
 [[files]]
@@ -1453,6 +1492,11 @@ hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "04277a03c92ff31e87564bbf3bd2c1200f57f91d20747befc73fdc5c5839cced"
+metafile = true
+
+[[files]]
 file = "mods/monolib.pw.toml"
 hash = "4387cfb8d69490641337ec3d42a8a434683a2d2b129990705e78a800f2795ad1"
 metafile = true
@@ -1483,6 +1527,11 @@ hash = "b5be9033308bb88924ddbc0eb95011a6ad1674099f0db976ab5e05a28afc4971"
 metafile = true
 
 [[files]]
+file = "mods/nautec.pw.toml"
+hash = "bcef532e1830f7880a221fa8c1fb8f1fb70bc9cb809ecabf684e9ffbd3248279"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "26aca541ff9f149ef8bfdf69efb258d23339affd9fba4612bddd01e759fb0ffd"
 metafile = true
@@ -1505,6 +1554,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d728d7cb790bf8a9fbbe4a0f0929092aa84e25975e4fdc0e9402a72e3d955a08"
+metafile = true
+
+[[files]]
+file = "mods/oritech.pw.toml"
+hash = "a26f0fa301a4cb7a006be6b73a3feac92c3b8992d0bc9c2db2c83db2219b10a5"
 metafile = true
 
 [[files]]
@@ -1535,6 +1589,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "58fe862ac2e8f705d8d611e4dfc49a85c4391f60981120949d7a2a772b1e96cc"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "89b3a0475bb6cc51fcd04be10557bad10b5ac3e8eaca771e19141e631e14fb2f"
 metafile = true
 
 [[files]]
@@ -1675,6 +1734,11 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "8fc5de8af644504673af794edc678ffa7b508c39ad30f69736744b282d55ad50"
+metafile = true
+
+[[files]]
+file = "mods/stitch.pw.toml"
+hash = "f9e13b44a817b078be83092f2a5e4aa3dc13bcce428101b52159a2703798a1ed"
 metafile = true
 
 [[files]]
