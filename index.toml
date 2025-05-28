@@ -816,6 +816,11 @@ hash = "19c6d1ef5837a9a7d623b36920aef7462ea430852e493e8dc56658ebf81a6848"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
+metafile = true
+
+[[files]]
 file = "mods/auto-clicker-fabric.pw.toml"
 hash = "c75bb71bee5f6540f67f7d2c211627fd48610ed8823f6a0b121a6f4c9b8913a0"
 metafile = true
@@ -995,8 +1000,8 @@ hash = "a60cc579fed71b89defa04f55e7f275a74df63c48b316655b593514cfcced110"
 metafile = true
 
 [[files]]
-file = "mods/curios-continuation.pw.toml"
-hash = "728964f212cc592a2fc2ae5106e06893a0697568aa9983d164dc112821dc8fc6"
+file = "mods/curios.pw.toml"
+hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
 
 [[files]]
