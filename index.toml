@@ -953,6 +953,11 @@ hash = "c2fd5f53d8ee32c2f7a69959bf4fed00ac7e5ab3568b2bcf5c970a9b3b66969a"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "f95bf48ab8dae109dfdf5aa3f2a3926dbec38510706df33a61a53d86bdd20fc7"
+metafile = true
+
+[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "61d4a634f8f97b96723a4fafa56612c1d78f4c9261574a72e01676b5763159e8"
 metafile = true
@@ -1117,6 +1122,16 @@ hash = "4789399dc24ceb4fee6683249b47d50fb6c79daa5fa32a19c884903fbe9ba04d"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "74e086c534f4203a09f546bf68d677729207615fccba293188008545d398e588"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+hash = "2975108251f1a98d581580881d7e1b0bc7b67e4940de7e0c40792dec8e2a7d88"
+metafile = true
+
+[[files]]
 file = "mods/create-confectionery.pw.toml"
 hash = "39d487bdf8979cc0b63a0d34ace0477e9aae5835e33fd9213aecca994025eca1"
 metafile = true
@@ -1157,6 +1172,11 @@ hash = "5a2bf142d0a4004eee45f11a1d2e2dcc638b78f4beb77a0413fd03139186f7d0"
 metafile = true
 
 [[files]]
+file = "mods/create-extra-gauges.pw.toml"
+hash = "2796ebdf74168df1069e4b1e959ee953a805ae33e6f28d66e26c40455c338cdc"
+metafile = true
+
+[[files]]
 file = "mods/create-framed.pw.toml"
 hash = "3ab146ce06fccc3076518269cac76bf22e298e1ef8023b6b2f19a03d8d607f16"
 metafile = true
@@ -1164,6 +1184,11 @@ metafile = true
 [[files]]
 file = "mods/create-garnished-reworked.pw.toml"
 hash = "2ccb391a7db9e512e51845f595f7c36af6cb7e48d5174fec22ecb0eba26b1b54"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "5f5a70ca3db3ad6e231f916cf37b6dde0b0a018db00525e892937224c94e6a22"
 metafile = true
 
 [[files]]
@@ -1919,6 +1944,11 @@ metafile = true
 [[files]]
 file = "mods/structurize.pw.toml"
 hash = "bf4ec5fa69bffbdb165e31234430cd56fd9946d1f8cb060c7a2dc3a187e65520"
+metafile = true
+
+[[files]]
+file = "mods/stylecolonies.pw.toml"
+hash = "6a797d14f96dd22b92ad2eb9280b143563e18407489405175f183cf3587d7372"
 metafile = true
 
 [[files]]
