@@ -1077,6 +1077,11 @@ hash = "8501b82d589c19893035e46c0ef4c075808f534627b45229866bb6d0c45117e6"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "363f887019f5a43e1a01934217efb49b144e19385dbd85faaf778a5671365505"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
@@ -1437,6 +1442,11 @@ hash = "51de6717e00fb21ada191f2e2bb572c156d6e482d6b873c99852b910e323f821"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "521156b5bbb19fff0b052c56659f2cd317c7649b7104d3ff6bd66d24f44b9ab6"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "7c66defddbd128f245433e61c5bf4350be7debcf21b216f36cfe81a9017b3d24"
 metafile = true
@@ -1479,6 +1489,11 @@ metafile = true
 [[files]]
 file = "mods/hey-wiki.pw.toml"
 hash = "d7f336f82d1153e7311799dbddc9f71b36fa52aa4a038f128bb8792b67b91336"
+metafile = true
+
+[[files]]
+file = "mods/holosigns.pw.toml"
+hash = "34abc5091822b00676d128d459b67e2b990d310ae4ad0d777a73ae5e70d7b4eb"
 metafile = true
 
 [[files]]
@@ -1672,6 +1687,11 @@ hash = "0f697b680492ec68f4db792705f84f27fa54afacba3c92a578e2c1b821bc894f"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "0d5e94bb74b906735c246fe2751bf8f492f7e2307b70ef368b2bd1e332b6fcb5"
+metafile = true
+
+[[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "04277a03c92ff31e87564bbf3bd2c1200f57f91d20747befc73fdc5c5839cced"
 metafile = true
@@ -1752,6 +1772,11 @@ hash = "ee35392cd74464af3b668fac4356b6e0415be59c21c09f257fb5c83d1b01a0fe"
 metafile = true
 
 [[files]]
+file = "mods/oxide.pw.toml"
+hash = "449b193d00923f42acc3f082fa5241b007155f6f938d0738e0b2338d9d4eb5a9"
+metafile = true
+
+[[files]]
 file = "mods/paladins-furniture.pw.toml"
 hash = "9f4e2a67c3a794ed2208d24731513430c664a19cf28ef76583d4fa5ad6af6075"
 metafile = true
@@ -1774,6 +1799,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "58fe862ac2e8f705d8d611e4dfc49a85c4391f60981120949d7a2a772b1e96cc"
+metafile = true
+
+[[files]]
+file = "mods/plushables.pw.toml"
+hash = "8c76e111d7154261e02051b4cbcbd60611e2eb5897358b937ad1c03e318ac409"
 metafile = true
 
 [[files]]
@@ -1867,6 +1897,11 @@ hash = "bf0ed97c305098e106f563cb965ef85988a8d0aac9c7e72db28486a19bf59c76"
 metafile = true
 
 [[files]]
+file = "mods/simple-weather.pw.toml"
+hash = "59a7ffcb97ff5fc001a763001c327dcf2699ac32db9356f016daeb32876b4dc3"
+metafile = true
+
+[[files]]
 file = "mods/skin-layers-3d.pw.toml"
 hash = "1ca2014e50708ff3aadf9d946dbb43170aa3c6e0ba5ec14fbadde961768161ca"
 metafile = true
@@ -1889,6 +1924,11 @@ metafile = true
 [[files]]
 file = "mods/some-assembly-required.pw.toml"
 hash = "d858bb993e026455aead206047526de062dc2920db47770f8f3006da9b3382f7"
+metafile = true
+
+[[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "e48dcc6ced73ba02c2afcbac8c4eb5fc04a32f6c415e9f63c02ec7b0d2f55f7d"
 metafile = true
 
 [[files]]
@@ -1962,6 +2002,11 @@ hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "130f04ff53fcd4cdb82fd357ae36a8fd7ef16f8f3de38d348dec6e7ba24d866b"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "bdb41354b79e009ac3e6c2589c6636e22b4172be55e197c5235268abf33d99bf"
 metafile = true
@@ -2004,6 +2049,11 @@ metafile = true
 [[files]]
 file = "mods/too-fast.pw.toml"
 hash = "f99688444af90cc07c2995cbf0fd09abe73411744583bd4cfd8703886a0c2744"
+metafile = true
+
+[[files]]
+file = "mods/tool-belt.pw.toml"
+hash = "aedf2d63eac9d47f5097bf5472e2f67bf7b2cf12d1ad6719e35e082cbd7acd5c"
 metafile = true
 
 [[files]]
@@ -2054,6 +2104,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "79d6d9e874b17cd48b2d543e3075fbac5aae940e37190d8e9afd0a5ecfd2ea7c"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "13dcfb5e5f504f0739cde3c419e9665bc2be110c86e931bf7337248e5f11f7c4"
 metafile = true
 
 [[files]]
