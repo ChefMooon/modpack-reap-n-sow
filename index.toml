@@ -57,6 +57,10 @@ file = "config/appleskin-client.toml"
 hash = "7127a276c7305371397053cd8d0833e6825c828850626e4067b9fed1430ed217"
 
 [[files]]
+file = "config/aquaculture-common.toml"
+hash = "a342b1463882b2f59735058cde0d0c7a0379cbd54e41123c0713c264ed9d9257"
+
+[[files]]
 file = "config/armorposer-common.toml"
 hash = "6572e15743b7f2a39ac8c66c759268d7824d53d0e617f27d581d4dab4b3940ad"
 
@@ -800,6 +804,11 @@ hash = "9451d3e47aa74425c4de5fe855c6c7a49280c16ab3c08a00056ebc3e98c37780"
 metafile = true
 
 [[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "fcccc51e8b07c72266caf8b74dea149635d6ff810174db0d8a6b6f1669fa7253"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "5820ee677da3df8d38b89fb2490be39e600b4eb1cf864a344f3cdf59e1879d25"
 metafile = true
@@ -822,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
+metafile = true
+
+[[files]]
+file = "mods/atlas-api.pw.toml"
+hash = "e5a82f81b10d1b886c5e37f5196cd23a02e2951c78b771f67886409a3e4ab746"
 metafile = true
 
 [[files]]
@@ -1169,6 +1183,11 @@ hash = "7c66defddbd128f245433e61c5bf4350be7debcf21b216f36cfe81a9017b3d24"
 metafile = true
 
 [[files]]
+file = "mods/gateways-to-eternity.pw.toml"
+hash = "4f93cd4ff8aa1a979b1f2d63feaf2e58a6ed3d180161cc80b610dcd2108607bb"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
@@ -1211,6 +1230,16 @@ metafile = true
 [[files]]
 file = "mods/irisshaders.pw.toml"
 hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
+metafile = true
+
+[[files]]
+file = "mods/irons-jewelry.pw.toml"
+hash = "f0644c52de9bdf42bdaa20ff589d3ebeedbfdb834b518472e45e0ae38f87e28e"
+metafile = true
+
+[[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "2bd52e5870ed1d6581147f498c945e1ae0296ff52580311dff179d8a836502e8"
 metafile = true
 
 [[files]]
@@ -1394,6 +1423,11 @@ hash = "60959e2d411a9a57e1eb3f64d75761ee9728eb1e480e3911d6714de71c2bf51f"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "d9401738f5964a2c97898c834ebfe0578a0a69066a70363aed80747405e8bc5e"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "d728d7cb790bf8a9fbbe4a0f0929092aa84e25975e4fdc0e9402a72e3d955a08"
 metafile = true
@@ -1419,6 +1453,11 @@ hash = "d94f05f57f4a981d3e0fda30b3def484cee5715edc48d8a2a0c8173008a125ea"
 metafile = true
 
 [[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "58fe862ac2e8f705d8d611e4dfc49a85c4391f60981120949d7a2a772b1e96cc"
+metafile = true
+
+[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "08c5f8baa25f2f83f5b816368ec63fc3bbb4c60a243d63386e2d58d8c43c9b75"
 metafile = true
@@ -1436,6 +1475,11 @@ metafile = true
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
 hash = "6f8063ef991eb6bac1319c2bb07fa56a848985a198b5ff45310342d1e00daeba"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "6ab010914e5472082ccf894b232d61a01793c27e554adc6fd12ab4f7966dde73"
 metafile = true
 
 [[files]]
