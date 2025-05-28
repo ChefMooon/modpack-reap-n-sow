@@ -909,6 +909,11 @@ hash = "a4719b5188f95b71055c14fdeb7c732c8669e2ef542bdafd63721275aa32a93e"
 metafile = true
 
 [[files]]
+file = "mods/better-ping-display.pw.toml"
+hash = "c2fd5f53d8ee32c2f7a69959bf4fed00ac7e5ab3568b2bcf5c970a9b3b66969a"
+metafile = true
+
+[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "61d4a634f8f97b96723a4fafa56612c1d78f4c9261574a72e01676b5763159e8"
 metafile = true
@@ -944,8 +949,18 @@ hash = "e3196a9adbe5881a81a02c9bc18e8140dc1f04fe118d64f18b2775a8ecf5518c"
 metafile = true
 
 [[files]]
+file = "mods/cable-facades.pw.toml"
+hash = "a8e4b617a19c1372a11192cd1baff6f69169f6bcbb048971de8a0d9e2c951988"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "03891e2139991fd25a654a5e880219d2ce2971633e875de13be4b67603d97331"
+metafile = true
+
+[[files]]
+file = "mods/carrasconlib.pw.toml"
+hash = "e865c23b5dc6713c3d524e7c86567e35139bd81d40744841c23b5b28a96b0bb6"
 metafile = true
 
 [[files]]
@@ -1028,6 +1043,11 @@ hash = "afe7cf9b4540f876c5d6a7c7b41ed09ff476766f4d31e03d679a191c8bb71a69"
 metafile = true
 
 [[files]]
+file = "mods/crawl.pw.toml"
+hash = "f4f8b5eb8c1427b6bd83ca70a3dbec9845b8c5a37b9ba72b9a49ee0e45136562"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "b3e1e88fae7462809ceaef7394e36c01bf422bbd939aa7393fa4f3a9cd5b0fe6"
 metafile = true
@@ -1080,6 +1100,11 @@ metafile = true
 [[files]]
 file = "mods/dynamiclights-reforged.pw.toml"
 hash = "f619c1ed2e189f9d482d081411fccee4bd26c05cce52a5db914f1989303f080c"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "3ded0d68b09fe994803e3129cefd1db3b20e0cc9a70892af7c9e4f70523d5536"
 metafile = true
 
 [[files]]
@@ -1630,6 +1655,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight-forge.pw.toml"
 hash = "711b91fe2fac178686dd95b1fae1e3c175707da8d59593b30354ce20cd25b793"
+metafile = true
+
+[[files]]
+file = "mods/structure-credits.pw.toml"
+hash = "1943363a029315c842f4723601b67871d2d499b1eeae17e5d1177a36e45351b9"
 metafile = true
 
 [[files]]
