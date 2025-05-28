@@ -834,6 +834,21 @@ hash = "19c6d1ef5837a9a7d623b36920aef7462ea430852e493e8dc56658ebf81a6848"
 metafile = true
 
 [[files]]
+file = "mods/ars-additions.pw.toml"
+hash = "c6a3813c00f1c2457d76c1c18bd8d2229293fb298ba7d1c9a83ee98cb7c150e6"
+metafile = true
+
+[[files]]
+file = "mods/ars-artillery.pw.toml"
+hash = "bd410ce6b41ea80f0b77e84fe5a90037075a7148cf8c328bc18604287d9868e6"
+metafile = true
+
+[[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "66b4f55088bbe3837e230e94fd2fc42b1b1553e8e15c64fc899f21a6887a1963"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
 metafile = true
@@ -1198,6 +1213,11 @@ hash = "629b53312afe295222bc721338a3189844157971767e377316492068c453abf4"
 metafile = true
 
 [[files]]
+file = "mods/geore-nouveau.pw.toml"
+hash = "83a9018757a7f4adbf0e70ad33b31be58fbf7772176172fb1179e91d4e7d59fa"
+metafile = true
+
+[[files]]
 file = "mods/geore.pw.toml"
 hash = "e1d5519a2c41230e50c3c0be8675b82ea7dafb026143b3cc4e7d7869f471f031"
 metafile = true
@@ -1490,6 +1510,16 @@ metafile = true
 [[files]]
 file = "mods/relics-mod.pw.toml"
 hash = "6ab010914e5472082ccf894b232d61a01793c27e554adc6fd12ab4f7966dde73"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-ars-nouveau.pw.toml"
+hash = "b2656c771da475e156ef44772e89e69f550c55b90182941c204ceb23313fc693"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-twilight-forest.pw.toml"
+hash = "df133563d15a5c76c99d4284b11a434557581534fec21338b81d3876d5183324"
 metafile = true
 
 [[files]]
