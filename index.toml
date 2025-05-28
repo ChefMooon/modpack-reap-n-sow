@@ -1465,6 +1465,16 @@ hash = "86ecff7664164a82553c836a0b541b533cfa876368e670b1ea71dafac3f61b49"
 metafile = true
 
 [[files]]
+file = "mods/silent-lib.pw.toml"
+hash = "40ecf884f979abc0c35c9674aa56822eb922ce63dc1ddfd1303076ccab0a434a"
+metafile = true
+
+[[files]]
+file = "mods/silents-power-scale.pw.toml"
+hash = "2a83fe81f71f4c7fe9fe1da7ca6d34ca982d57b2090f57ed037d96579a3ae0d4"
+metafile = true
+
+[[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "bf0ed97c305098e106f563cb965ef85988a8d0aac9c7e72db28486a19bf59c76"
 metafile = true
