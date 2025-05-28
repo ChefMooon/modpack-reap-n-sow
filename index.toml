@@ -838,6 +838,11 @@ hash = "c4023b300f64b7033e4388dec2847959a2970bc3e4a58c50d6fd057b3899ed02"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "918cbc479cfc5c66ee234bc3f71ee584c1ab596f0d88aaa59bf66ca3b404c5db"
+metafile = true
+
+[[files]]
 file = "mods/aquaculture.pw.toml"
 hash = "4cc090d258d260dcac24080dd33df5ab1d5c346f26a48b77cd739734e2415bab"
 metafile = true
@@ -875,6 +880,11 @@ metafile = true
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveaus-flavors-delight.pw.toml"
+hash = "38fe9e2b5d0869aceede7d5d1d2d2bc64587e3183ca28caf84cd78ba9ad874a9"
 metafile = true
 
 [[files]]
@@ -973,6 +983,11 @@ hash = "ddc28378c5642fbf371ac7be98970932c8742f2df7cfd4c18dbf3ccf480324fb"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "770e14b5dd31c24ee58d9d876902c909fd7fe0ce3fe933220cf961f45f004052"
+metafile = true
+
+[[files]]
 file = "mods/c2me.pw.toml"
 hash = "e3196a9adbe5881a81a02c9bc18e8140dc1f04fe118d64f18b2775a8ecf5518c"
 metafile = true
@@ -1010,6 +1025,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "fbee29e0f3f046515c7f95bd69884feb70c7a381fa4803e0f35650db244121da"
+metafile = true
+
+[[files]]
+file = "mods/chefs-delight-forge.pw.toml"
+hash = "ab4369feacbd745c55a57f455c13cf5a6f94a0463026587de220d277b3a031c9"
 metafile = true
 
 [[files]]
@@ -1069,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
+file = "mods/crabbers-delight.pw.toml"
+hash = "0ab8b0a3f27f7c176a325acce0b39a220abf17a864c1931a15f234956f9d7925"
 metafile = true
 
 [[files]]
@@ -1202,6 +1227,11 @@ hash = "a60cc579fed71b89defa04f55e7f275a74df63c48b316655b593514cfcced110"
 metafile = true
 
 [[files]]
+file = "mods/cultural-delights.pw.toml"
+hash = "c1949153fb4b167eaf6fde6165132914af1405a5477bcf4d10912733d2fe6baf"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "f92e7a06645e41ea1934dc420eb2772edb1708c0d71cb427baef8cf753acb934"
 metafile = true
@@ -1274,6 +1304,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "0695a6de9cb50b8e2e1c6a0b0d7d16d894c20668a234fcb75ea56f5a1a2e6413"
+metafile = true
+
+[[files]]
+file = "mods/engineers-delight.pw.toml"
+hash = "0a9a294fa98a922d95a0fd005b53364f43ba185bfac47aa96f4908615591a4c4"
 metafile = true
 
 [[files]]
@@ -1369,6 +1404,11 @@ metafile = true
 [[files]]
 file = "mods/frights-delight.pw.toml"
 hash = "83e7a8f007c35aae2c3dcc085131ddc93bbf74d2335a63fccfea8c210f08b1df"
+metafile = true
+
+[[files]]
+file = "mods/fruits-delight.pw.toml"
+hash = "51de6717e00fb21ada191f2e2bb572c156d6e482d6b873c99852b910e323f821"
 metafile = true
 
 [[files]]
@@ -1634,6 +1674,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "5bcd4dcb3e0aaa0d31477e3b87198b4dea056c4e7568cb3afa8f3f045e01916f"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
 metafile = true
 
 [[files]]
@@ -1949,6 +1994,11 @@ metafile = true
 [[files]]
 file = "mods/trimmable-tools.pw.toml"
 hash = "200ea982bda351163b80131fe3a66d07c94832ca4ebd478b229a4a09e30760ad"
+metafile = true
+
+[[files]]
+file = "mods/twilights-flavors-delight.pw.toml"
+hash = "b56af35f45fc27b1462dba5d2c9646056701499ac1314518cff9f7e3ee6e14d9"
 metafile = true
 
 [[files]]
