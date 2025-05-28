@@ -1443,7 +1443,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "521156b5bbb19fff0b052c56659f2cd317c7649b7104d3ff6bd66d24f44b9ab6"
+hash = "486bcc62a6a1ad4037294fd9f8b17314f659a6682de899f33ceafa8bf7ef53ae"
 metafile = true
 
 [[files]]
@@ -1874,11 +1874,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "72436f0f2488be654445969e3c009a2fca8a72ff1c292ace26699d9c3cdbb4cf"
-metafile = true
-
-[[files]]
-file = "mods/shulkerboxtooltip.pw.toml"
-hash = "86ecff7664164a82553c836a0b541b533cfa876368e670b1ea71dafac3f61b49"
 metafile = true
 
 [[files]]
