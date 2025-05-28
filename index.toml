@@ -665,6 +665,10 @@ file = "config/tectonic.json"
 hash = "4e8d29f1f250e6df16a088b636fffa018152ee8953c062e4bf7ce70961f433a1"
 
 [[files]]
+file = "config/tipsmod.json"
+hash = "e68dac58208fc1f2f7e525dd294efc95b4806bde4a68cd5ab255a041cac960bc"
+
+[[files]]
 file = "config/toms_peripherals-common.toml"
 hash = "9c06e820767f81d75a835923501f3a6c783ce4e28a68c4a8140d672986c92a8b"
 
