@@ -1080,6 +1080,16 @@ hash = "35bad9f01671b5b4284ad547dab6635b2a029980c88d82007690e9232a5cb420"
 metafile = true
 
 [[files]]
+file = "mods/exposure-polaroid.pw.toml"
+hash = "4e4792eaf4ef80565bd33e64a7f69e11dfa2e91bea992e992728caa5981b6644"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "9c548f782957405fa20f19a150c61e8adf9f7655d89be76ee946100dad459646"
+metafile = true
+
+[[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "83b0e669641254a522060d01f699c5c18ae1f36deb074b28d0bff5d6f22ef131"
 metafile = true
