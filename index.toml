@@ -1111,6 +1111,11 @@ hash = "42ffb6f5835250003da6ca3667ff751709ea295faee43b49c365b0f6c1e8f4d8"
 metafile = true
 
 [[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+hash = "f37e06922f0acdd9c6c33dd4ddf4a84b9a768a1a339f148a00a7d8a64dc6b0b8"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
@@ -1848,6 +1853,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6b8153ddabbacbde1bae8fe5b763fcf9aef674c7060a228a03b61d73bc5c3314"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-create.pw.toml"
+hash = "dc8e76a5b7d50efaf28349d1060e1f0a45ecff4645bdfbc6e9c1ec13b2dcb84a"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "1cf7e6e2c3d53be5a77f4823459a057d03f36aec7966c27af35204c50028de15"
 metafile = true
 
 [[files]]
