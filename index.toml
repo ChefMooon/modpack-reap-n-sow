@@ -6,7 +6,7 @@ hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "53551f5c23cb7cfbb761dce228a3d288337e25b95e4e1775e715e008774ca14d"
+hash = "603842867fa204e494412c84045e0f4b7a8323a63e7d31eea3c37ae6e0f04edf"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -1700,8 +1700,18 @@ hash = "8426eb2324730f27908835c7c97d8b5448068b294a3f3ad91d5a7fc63b728981"
 metafile = true
 
 [[files]]
+file = "mods/mega-cells.pw.toml"
+hash = "847af21cdfd6f4c2f75aee0a31514bcba8783134ba357e79674a2ca55b9ed716"
+metafile = true
+
+[[files]]
 file = "mods/melody.pw.toml"
 hash = "4acb02c7e590ebb510be417e6269e7f07c7b650cf95080cab0daa3005cc8c919"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "76e747874f7adebe3811818c4327b1b5dcf65f36794630eb85fc92740427f4b4"
 metafile = true
 
 [[files]]
@@ -2097,6 +2107,11 @@ metafile = true
 [[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "4c00caba57fa2aa18ebf941fbe897ab444252f6baf816f5d1fea9430ac5b3779"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+hash = "2ce88d616a4a4c4030bdcaa478adc5afae24c7b901375ae366aceb2d7f43e812"
 metafile = true
 
 [[files]]
