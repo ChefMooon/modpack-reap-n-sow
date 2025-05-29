@@ -217,6 +217,26 @@ file = "config/fancymenu/assets/banner.png"
 hash = "5594c0f6ac2bbc737fa78d400ca6019484c80ad33878883b08c28b8d89ad2776"
 
 [[files]]
+file = "config/fancymenu/assets/buttons/button_medium.png"
+hash = "545c55add4a36e4949bec3f53b026c596df92ce9efddbea4ec2b4f9b88f7ac59"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/button_medium_hover.png"
+hash = "5637bc839be4af90930f97df64d3d995550df34281f99c34a1580a7f0baa3ead"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/button_small.png"
+hash = "e0d62422ea38f3aa78dde4d5ee3994e4789443d431c0f014e782cc94b4821c65"
+
+[[files]]
+file = "config/fancymenu/assets/buttons/button_small_hover.png"
+hash = "b808eb878bbf7c27d6925348ba90ca219bbcbafc383f116f995bfe8f7bc54231"
+
+[[files]]
+file = "config/fancymenu/assets/connect_icon.png"
+hash = "187da6249ec34ac8b49239e172f22ef7f7906c1bec30a74a28684943a6273146"
+
+[[files]]
 file = "config/fancymenu/assets/loading_background.png"
 hash = "2a6cc60936829dc2bf29305ff64fe1b1b229df7bf2812aa6f03ede43f9a0254d"
 
@@ -226,7 +246,7 @@ hash = "736f614b79436670fbb253494c76e1c5c2f0541cbbf843af077dd9b08e59c72c"
 
 [[files]]
 file = "config/fancymenu/assets/reap_n_sow_title.png"
-hash = "78d05834b22ebae75a37f7a2d198ee36d942fb4862316d8577514b670d31a932"
+hash = "45317612eb1fb02b3b8d9a5763f19fa24145d18e85a68d19ca6ea772ae6f2d75"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
@@ -242,7 +262,11 @@ hash = "13d4a85ea47c9349fcaa58900f1deddbb8e2ec1a0953cbe4e492056cf015b386"
 
 [[files]]
 file = "config/fancymenu/customization/cultivate_title_screen_layout.txt"
-hash = "fdd74f2077a5985b20e551ace0d301a8e81ac72874730977d1bf63e818fac6d2"
+hash = "f532c67cfc95891d9503fbc15a672d73deaf2d2474917d346b44372bc68841d6"
+
+[[files]]
+file = "config/fancymenu/customization/reap_n_sow_title_screen_layout_create.txt"
+hash = "10f7247db710c8fed08375775b5eec11ab468d4e3bfc3aa311341651ae2d65c8"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -2187,7 +2211,7 @@ hash = "e4821df27632ff81058469a626b1a86c8ce1da47fa77a6217fa02bc71e71dbfc"
 
 [[files]]
 file = "reap_n_sow_title_square.png"
-hash = "ab8695166bae6706ab01c3e2f94821ce69840c7f693853d7168dc6bc48059702"
+hash = "2bd0275833a44146502570ddb6e19d5dbc422c340355de4c174f7cc7a4d56b47"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
