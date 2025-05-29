@@ -418,7 +418,7 @@ hash = "eae21b845102a82a171cd508744eeae4ad62fe2a6036d5f22423791faf24aead"
 
 [[files]]
 file = "config/justzoom/config.txt"
-hash = "4ced9e0309c6d35a787880b113ebfaf1ae77ea79dcfb919eee73cd66753500b1"
+hash = "60cec24e5b28de27af93fa22a02e5f16db865f80f661b85e080f2a4524db7f62"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
