@@ -1,6 +1,6 @@
 name = "Hey Wiki"
 filename = "heywiki-neoforge-1.7.5+1.21.1.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
