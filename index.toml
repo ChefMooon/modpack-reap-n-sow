@@ -928,7 +928,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "82c3b461be0802931ea487203861c7e792cafbb9fe85e95b960357746203985a"
+hash = "8414a136dd695904e4fbb6c91b3c541706933b44f5f8c860ac51b594168e7fb2"
 metafile = true
 
 [[files]]
@@ -1136,7 +1136,7 @@ metafile = true
 
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
-hash = "0ab8b0a3f27f7c176a325acce0b39a220abf17a864c1931a15f234956f9d7925"
+hash = "9dbcf232ce4e6930b3ed9808aa33797ec040ee91d033a869f47881e965721da0"
 metafile = true
 
 [[files]]
@@ -1176,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "0017951b69312c714e7488ebe8345f77b662b802f62f0f29b9a8d6e87b1f9436"
+hash = "d4b3cc67d2720347e998971c46801aae60e42e8b49cd4f1b4f25584966537f4b"
 metafile = true
 
 [[files]]
@@ -1581,7 +1581,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "1cfdc47449a50cf52352a910cedb0874b945774ea7630e6aaff2e0c1e0fe8434"
+hash = "af264ac6bb45ce02f3ed59d67525f31064f57d6dc576d73dfbb841194a0abbd9"
 metafile = true
 
 [[files]]
@@ -2051,7 +2051,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e3584bc2eb821acd12e1729d3944e57d7264c4ce8aad38555ceb5597009fa8ca"
+hash = "e9387745f4cbdf33763d4e3b595466d38c4a00138120a7fb3a0df5ada2aa032d"
 metafile = true
 
 [[files]]
