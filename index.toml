@@ -804,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/ancore.pw.toml"
-hash = "ed78d9670e291629494e95a988ea7e7792dc0628a2f3f2b41085adeaae673604"
+hash = "2c17829d72a63d14e835e9247d1fe972d9d3d7b0ca6c5e07664717aeff4d3c5f"
 metafile = true
 
 [[files]]
@@ -1448,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "7c66defddbd128f245433e61c5bf4350be7debcf21b216f36cfe81a9017b3d24"
+hash = "b772e8a158c45c21844c4acf10f2031335ccc8d05837532ad01034057221bdbd"
 metafile = true
 
 [[files]]
@@ -1548,7 +1548,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "610b4bddf480c8630796ba04ff8f0094b58d12cf41cc292993dc65a83c2ae4b8"
+hash = "1cfdc47449a50cf52352a910cedb0874b945774ea7630e6aaff2e0c1e0fe8434"
 metafile = true
 
 [[files]]
@@ -1673,7 +1673,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "539a125e4923416c1aa7aee64f6f9b126347f8f3c26793f2f1920c5f2c315d4c"
+hash = "808ea6c2d2f2dd493514bf68beb888faca460f2d6e60dc747322521eb76aecac"
 metafile = true
 
 [[files]]
@@ -1928,22 +1928,22 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "fd0b6eda6c64e8134b8a84a7262ef02553cda34e642f81d938ccd3e8013929ad"
+hash = "35590ce43407219702224e1599a09949ad78dde630def0f2f8759f50363f849b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "90108feb588b4d64d2b57edca150c5c594c38f3219d20317599d49060044edb9"
+hash = "c6edd7c53e3d84b2cad550d81b2d399d421f10503bd1aecafb69ed750e99fb4e"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "85026162ba0d81cdbefd95b3c8326676049138d978c5ef36f6132daa1ab3b187"
+hash = "e984302743fdc41ee6e9e3b8f13eef0e829e1108c07ac615772210812a679edb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "3e8949e5b9311eb6ca679f7d833c86ca8057909792e9c7f8b98022ad708f289a"
+hash = "cb912813de4b3e315f6b6c2ddaeeede47efbbea22a968c6a2a73d283aa8850e9"
 metafile = true
 
 [[files]]
@@ -1978,7 +1978,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "bf4ec5fa69bffbdb165e31234430cd56fd9946d1f8cb060c7a2dc3a187e65520"
+hash = "2274ec3ecde8791843e14685cba0027dc6f00344b31eb3d7382cb60de3d9c354"
 metafile = true
 
 [[files]]
