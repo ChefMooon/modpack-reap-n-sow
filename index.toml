@@ -570,7 +570,7 @@ hash = "ebbf0697d0fef9d7cf4255fb3bf76b4cd136436af659fc440d554c48483e75a3"
 
 [[files]]
 file = "config/sdrp-common.json"
-hash = "cc2fc5e4888159339bf39795225e173739c2be0665d517ce30ae6e02c6cf1484"
+hash = "b6bea173fb04c36c9ca62a667f7c40be139e565647391df372a8b4d2439c4139"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -670,7 +670,7 @@ hash = "83819dbe17151dae77f70c6f0c1e4d2e64d5bc9c8beee5adca98fd01ac4e2145"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "4e8d29f1f250e6df16a088b636fffa018152ee8953c062e4bf7ce70961f433a1"
+hash = "f43cc60c37b80bfae9ed275b8c28d0abe83413a270f307039a09fd2dad49a179"
 
 [[files]]
 file = "config/tipsmod.json"

@@ -30,6 +30,6 @@
     "deep_ocean_depth": -0.45,
     "monument_offset": -30,
     "ocean_depth": -0.15,
-    "remove_frozen_ocean_ice": false
+    "remove_frozen_ocean_ice": true
   }
 }
