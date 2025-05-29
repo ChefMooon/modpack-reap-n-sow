@@ -1116,6 +1116,10 @@ hash = "f37e06922f0acdd9c6c33dd4ddf4a84b9a768a1a339f148a00a7d8a64dc6b0b8"
 metafile = true
 
 [[files]]
+file = "mods/copycats-2.2.2+mc.1.21.1-neoforge.jar"
+hash = "e2694792a8d30bd9c421f7cde7f745b983fe5cc485e776e8c386611ca5a87cc4"
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "a489c33879941ccb524c52fb81927adf3d3c8b156064c7a5be5bf8dc8caf63c9"
 metafile = true
