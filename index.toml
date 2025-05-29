@@ -2012,6 +2012,11 @@ hash = "e3584bc2eb821acd12e1729d3944e57d7264c4ce8aad38555ceb5597009fa8ca"
 metafile = true
 
 [[files]]
+file = "mods/terralith.pw.toml"
+hash = "0e02e93b9468dca005f7fea385e92612e38bb6807f4dcd64ce7a4b22fac78581"
+metafile = true
+
+[[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "c8642cf1ac15e24a81e162845554b22ad392989e3045cf4966085ffaf48c5071"
 metafile = true
