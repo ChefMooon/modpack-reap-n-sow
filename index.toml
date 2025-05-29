@@ -1068,8 +1068,8 @@ hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
 metafile = true
 
 [[files]]
-file = "mods/colourfulclocks-neoforge-1.21.1-0.2.0-beta.jar"
-hash = "e3b3d97bd79cacac1b09830b7d99da461ec920c51671a2ad20369d912f10deb2"
+file = "mods/colourfulclocks-neoforge-1.21.1-0.2.0-beta-1.jar"
+hash = "dd3813d2fefa2540739b92f0678bc7a3f246d919cc16b9fd7c5d0d89448a0352"
 
 [[files]]
 file = "mods/comforts.pw.toml"
