@@ -1018,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "e3196a9adbe5881a81a02c9bc18e8140dc1f04fe118d64f18b2775a8ecf5518c"
+hash = "e51785c3d8b7763b9754afe8b9445990ec1606c822d6467188828d35409ec4b0"
 metafile = true
 
 [[files]]
@@ -1176,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "d4b3cc67d2720347e998971c46801aae60e42e8b49cd4f1b4f25584966537f4b"
+hash = "e5bf61a3511cc430371e66dc2bccc8838c026c5607766560285c6cbe7b08c965"
 metafile = true
 
 [[files]]
@@ -1411,7 +1411,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "9c548f782957405fa20f19a150c61e8adf9f7655d89be76ee946100dad459646"
+hash = "39ee61b31e453111c0965f31e1018059fd274365e9538677fc65464663715506"
 metafile = true
 
 [[files]]
@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "75aa44c9ddf098802b965d6c4d3d8f7ad72bf255e1f163ab1ac2b4a6eb31c6ab"
+hash = "94a3f62be55b8772c8d3259cfaa6d42ff38137d5835fe5b56a96c114e169b8ac"
 metafile = true
 
 [[files]]
@@ -1466,7 +1466,7 @@ metafile = true
 
 [[files]]
 file = "mods/frights-delight.pw.toml"
-hash = "83e7a8f007c35aae2c3dcc085131ddc93bbf74d2335a63fccfea8c210f08b1df"
+hash = "3de3fbf9015f6899af9dca39b38db266c9db05f12e30793402160dec4f784595"
 metafile = true
 
 [[files]]
@@ -2001,7 +2001,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "c6edd7c53e3d84b2cad550d81b2d399d421f10503bd1aecafb69ed750e99fb4e"
+hash = "5ee626cfda878b82cc814db2df1379ba10cc3d79ee6c60a8490456069ad1f218"
 metafile = true
 
 [[files]]
@@ -2011,7 +2011,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "cb912813de4b3e315f6b6c2ddaeeede47efbbea22a968c6a2a73d283aa8850e9"
+hash = "f2fd44e0846cd6908a342f9c21c48df36b59a7094316594c4c571e028edc8a4f"
 metafile = true
 
 [[files]]
@@ -2076,7 +2076,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "e9387745f4cbdf33763d4e3b595466d38c4a00138120a7fb3a0df5ada2aa032d"
+hash = "29817cdb1fe52e16dd815c2daa085abdf840762ddd24020e112be4f18e5a6ae3"
 metafile = true
 
 [[files]]
@@ -2146,7 +2146,7 @@ metafile = true
 
 [[files]]
 file = "mods/ubes-delight.pw.toml"
-hash = "351456628992eacb72da2d70c370e79d0007dad2e906619e062a45c73854816a"
+hash = "eeb86835f8cc88e006d8f1ada1d054fea18b1edec8820c889902362de096eba3"
 metafile = true
 
 [[files]]

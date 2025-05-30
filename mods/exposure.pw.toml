@@ -1,13 +1,13 @@
 name = "Exposure"
-filename = "exposure-neoforge-1.21.1-1.9.6.jar"
+filename = "exposure-neoforge-1.21.1-1.9.7.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "d82d6674267cb9f0e48137359e438c6766a83132"
+hash = "9aa69ee08626bb35297d5272847124681a7118ea"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6561530
+file-id = 6599164
 project-id = 871755
