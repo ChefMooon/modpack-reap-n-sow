@@ -266,7 +266,7 @@ hash = "f532c67cfc95891d9503fbc15a672d73deaf2d2474917d346b44372bc68841d6"
 
 [[files]]
 file = "config/fancymenu/customization/reap_n_sow_title_screen_layout_create.txt"
-hash = "e8a3f40184a1dd0900cc55fdbee1c9d99820e4a6a72c07df3ba4b727fae7aedc"
+hash = "5edf8bbac08c4942120b6bd5dd58929e1c5f45019c127dee4d95a95afd375173"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
