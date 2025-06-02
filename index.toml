@@ -1077,6 +1077,11 @@ hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "7b5c86be25546796eb891e4444e0478aaf93d3515e57df4fd20cdda0daa05a52"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
 metafile = true
@@ -1293,6 +1298,11 @@ metafile = true
 [[files]]
 file = "mods/cultural-delights.pw.toml"
 hash = "c1949153fb4b167eaf6fde6165132914af1405a5477bcf4d10912733d2fe6baf"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "92d8711662b4e3fd42a57254571aca9f0b33a10bb7492a8fba59b22e78f688e6"
 metafile = true
 
 [[files]]
