@@ -1560,6 +1560,11 @@ hash = "34abc5091822b00676d128d459b67e2b990d310ae4ad0d777a73ae5e70d7b4eb"
 metafile = true
 
 [[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "ffab6e99b76f1a7a08b2cebf03acdeea61d022be45d81fd480c69d6af2001142"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "0df4d594c97a09d3af58009cc93459afa4841b09c756f8fc71debfc83e36937d"
 metafile = true
