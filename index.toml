@@ -1018,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "e51785c3d8b7763b9754afe8b9445990ec1606c822d6467188828d35409ec4b0"
+hash = "114295811447c4eda1cff5efa4555a312458f4de598b4ca186ec6f3f98f879ae"
 metafile = true
 
 [[files]]
@@ -1751,7 +1751,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "33e161a78d733bc62d4d533245b52c2d855975be4b3a91f1a0658209a3b6f26c"
+hash = "d95c8fa5405b1a4037bc9f9831daa480998e68f46e4684bde1cc17aed87bcc1b"
 metafile = true
 
 [[files]]
@@ -1796,7 +1796,7 @@ metafile = true
 
 [[files]]
 file = "mods/multi-piston.pw.toml"
-hash = "5bcd4dcb3e0aaa0d31477e3b87198b4dea056c4e7568cb3afa8f3f045e01916f"
+hash = "68d96b63880db1937ba20afb6c37c3edcdfb82906d5b8f09ee8bd1909b6a4bbb"
 metafile = true
 
 [[files]]
@@ -2071,12 +2071,12 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "90f05f57f2f366e1830e89c8f2660f726bbcab24c4f278894333b3683b219514"
+hash = "56c8cc878e11d9610603da00e016448004a892e0967859901d90dcd0e50cd819"
 metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "f28879bb53a197c9b75a21673707ff6313f6487b2df737f3bb4ab4a657ed643b"
+hash = "65c16431ac20dec5414fc7cde0cba70d720feaf49c2e27c8a9195b9c52429e59"
 metafile = true
 
 [[files]]
