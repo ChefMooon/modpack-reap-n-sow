@@ -1960,6 +1960,11 @@ hash = "e89096170a7a116d50f8b9a52cadf47d4e3a2dd7e4edf0b810f29727d3b5bcfc"
 metafile = true
 
 [[files]]
+file = "mods/save-loot-tables.pw.toml"
+hash = "59c141897ac0ed3c014cc8120f52a4843183af60196f05f9846644d9abebf7dd"
+metafile = true
+
+[[files]]
 file = "mods/screenshot-to-clipboard.pw.toml"
 hash = "d3efcf490e3bba391a03153c9a135abbabddca8418a3e02ecb0817f026c20887"
 metafile = true
