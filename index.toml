@@ -1800,6 +1800,11 @@ hash = "68d96b63880db1937ba20afb6c37c3edcdfb82906d5b8f09ee8bd1909b6a4bbb"
 metafile = true
 
 [[files]]
+file = "mods/multibeds.pw.toml"
+hash = "25a3208d521f2af8ec7176871df7a7cdaf6637c57952716e0e2c4484668aaf7b"
+metafile = true
+
+[[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
 metafile = true
@@ -1967,6 +1972,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "72436f0f2488be654445969e3c009a2fca8a72ff1c292ace26699d9c3cdbb4cf"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+hash = "c46f4a42b155a73db6b22e423220f139dd39186ff193728214fc94c5342d7f86"
 metafile = true
 
 [[files]]
