@@ -1,12 +1,12 @@
 name = "Reap N' Sow"
 author = "ChefMooon"
-version = "1.2.4"
+version = "1.2.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "37465d14db8ecce42d8859d300f51bc4e4e29e54a0b059e5a96a9bd3291823c1"
+hash = "76b385eab4de4bc6a8745a6c1ab77f9291e7aae680863d41a87b5fff412590ac"
 
 [versions]
 minecraft = "1.21.1"
