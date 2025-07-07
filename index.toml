@@ -1321,8 +1321,8 @@ hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
 
 [[files]]
-file = "mods/differentdoors-neoforge-1.21.1-1.0.0-alpha-6.jar"
-hash = "4d2633a15e6f8d916ff1e6c07447a8cae39a187d6ccc9f86e0125ea417cfd453"
+file = "mods/differentdoors-neoforge-1.21.1-1.0.0-beta.jar"
+hash = "09f4a65ea5b10af6f1d580d8ec0472f0fefab658d084f5777fcc71b1508a12a6"
 
 [[files]]
 file = "mods/display-delight.pw.toml"
