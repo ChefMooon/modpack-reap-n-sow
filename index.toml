@@ -912,6 +912,11 @@ hash = "38fe9e2b5d0869aceede7d5d1d2d2bc64587e3183ca28caf84cd78ba9ad874a9"
 metafile = true
 
 [[files]]
+file = "mods/artsandcrafts.pw.toml"
+hash = "5482fba5b2335cdbc14f4aefccd95b39aaa6142466db2ad6f48e1582670592c1"
+metafile = true
+
+[[files]]
 file = "mods/atlas-api.pw.toml"
 hash = "e5a82f81b10d1b886c5e37f5196cd23a02e2951c78b771f67886409a3e4ab746"
 metafile = true
@@ -1013,7 +1018,7 @@ metafile = true
 
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
-hash = "770e14b5dd31c24ee58d9d876902c909fd7fe0ce3fe933220cf961f45f004052"
+hash = "c854b73ec29fc1b2af09becafc5380d24dbe91ee809bd3803166563c13d98214"
 metafile = true
 
 [[files]]
@@ -1142,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
-hash = "9dbcf232ce4e6930b3ed9808aa33797ec040ee91d033a869f47881e965721da0"
+hash = "253cc8445286e13bb74ea6f9886cfda9fec39257fc86f10ebb537ff663c83efa"
 metafile = true
 
 [[files]]
@@ -1302,7 +1307,7 @@ metafile = true
 
 [[files]]
 file = "mods/cultural-delights.pw.toml"
-hash = "c1949153fb4b167eaf6fde6165132914af1405a5477bcf4d10912733d2fe6baf"
+hash = "c5a93805e9edc7013b5f18b61918812eb333de605304edffbec113c98ae282fb"
 metafile = true
 
 [[files]]
@@ -1326,7 +1331,7 @@ hash = "09f4a65ea5b10af6f1d580d8ec0472f0fefab658d084f5777fcc71b1508a12a6"
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "7498c6edae2724233ceff7c81114e92714d4676f2d48fc146756ca8303605e9d"
+hash = "3c8496d08cc0b72812192f8e466b6fa3ce5ea873fa02543966ca9b42c3500198"
 metafile = true
 
 [[files]]
@@ -1581,7 +1586,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "51108048fd88cd4375b7f91c5327f8ec0d6eb3295ccb9011d42520784c175409"
+hash = "6cd1a159d828605ea0e1b3a0392ed6b38a81608dc936c539e484799024b2017a"
 metafile = true
 
 [[files]]
@@ -1622,6 +1627,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "77668ebfdfc795d86c8b89ab8ab3139814383bb2a91a243682137ba59c479a65"
+metafile = true
+
+[[files]]
+file = "mods/jinxedlib.pw.toml"
+hash = "1350afbe0b8ffcd889f3093b5e1feadb255224a1c887acbcc30a36e50450b351"
 metafile = true
 
 [[files]]
@@ -1851,7 +1861,7 @@ metafile = true
 
 [[files]]
 file = "mods/oritech.pw.toml"
-hash = "a26f0fa301a4cb7a006be6b73a3feac92c3b8992d0bc9c2db2c83db2219b10a5"
+hash = "294165a912ba6d3c190d44903b0b308d84815beb9a0fc70c268ec9126e2ebdf9"
 metafile = true
 
 [[files]]
@@ -2081,7 +2091,7 @@ metafile = true
 
 [[files]]
 file = "mods/storage-delight-forge.pw.toml"
-hash = "711b91fe2fac178686dd95b1fae1e3c175707da8d59593b30354ce20cd25b793"
+hash = "51a3bc11e9b8726d746d2bdaa6eed783184c8bc55794480057ae81626a762ed0"
 metafile = true
 
 [[files]]
@@ -2096,7 +2106,7 @@ metafile = true
 
 [[files]]
 file = "mods/stylecolonies.pw.toml"
-hash = "65c16431ac20dec5414fc7cde0cba70d720feaf49c2e27c8a9195b9c52429e59"
+hash = "8a9cba96fc0c840c7ccfdc8c5e4a62bd517a50a7a5d473d2f18d090dd5a2a870"
 metafile = true
 
 [[files]]
