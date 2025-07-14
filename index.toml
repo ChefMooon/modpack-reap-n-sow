@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "9d5d70bf29e018d32cb8237acfd41b1140a8b14e9783b8f84a86e55be8294368"
+hash = "1f9289968f9275549bd5a4642e8196bf7a117c28728f0f5f5245680930aaab8e"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-artillery.pw.toml"
-hash = "bd410ce6b41ea80f0b77e84fe5a90037075a7148cf8c328bc18604287d9868e6"
+hash = "74295851e29e5189076579132fa56b8aed98c9bf58e99c689dc720352765a0d0"
 metafile = true
 
 [[files]]
@@ -907,7 +907,7 @@ metafile = true
 
 [[files]]
 file = "mods/ars-nouveau.pw.toml"
-hash = "ae037bee34537ebc5466849ab2dc15a87850527b1c28c0702c513c360f1389bb"
+hash = "3092f5142e982bf9b710744d55c26252909034dfbb560c0b0f3db7b6bd3cd86b"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/artsandcrafts.pw.toml"
-hash = "5482fba5b2335cdbc14f4aefccd95b39aaa6142466db2ad6f48e1582670592c1"
+hash = "186860e34950ccc061ebea780c10c6dfbef10a93828700ee881774dbe5027430"
 metafile = true
 
 [[files]]
@@ -952,7 +952,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautiful-enchanted-books.pw.toml"
-hash = "8b204e6d4faf11ccae272823cbc6d43477586f82cf1eff02435fef6998535082"
+hash = "18514fc66d77ea83074d6eae8f9346ba57acb1ff070153adeb7de1cb522105c4"
 metafile = true
 
 [[files]]
@@ -1146,7 +1146,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse.pw.toml"
-hash = "3010b495fe348272f66e11617aefd064372979efc6c295502feeb8ecc7fcd3fb"
+hash = "d4e404f869a1ac64ca8447681c2e6c3c7c64c7b186aa2f9c929693d4db23cb47"
 metafile = true
 
 [[files]]
@@ -1460,7 +1460,7 @@ metafile = true
 
 [[files]]
 file = "mods/exposure.pw.toml"
-hash = "39ee61b31e453111c0965f31e1018059fd274365e9538677fc65464663715506"
+hash = "cd5f406db5161568b3cba9e90d127931e973eb818de934ed5d0d3278ee1e3ead"
 metafile = true
 
 [[files]]
@@ -1510,7 +1510,7 @@ metafile = true
 
 [[files]]
 file = "mods/friends-and-foes-forge.pw.toml"
-hash = "e5a417a385ee4240a293e9432e9e8e657b3a6bb74a87f0255450e8f1baeb22ca"
+hash = "91defd43ae1f8407f483aa97565a9d7745a47c786b5bc7f0d7e804db91cc2f79"
 metafile = true
 
 [[files]]
@@ -1560,12 +1560,12 @@ metafile = true
 
 [[files]]
 file = "mods/geore-nouveau.pw.toml"
-hash = "83a9018757a7f4adbf0e70ad33b31be58fbf7772176172fb1179e91d4e7d59fa"
+hash = "7a8e191c210f0f153c94cfef1877c3704aa58b6697c87df81da9ea97c71b5a21"
 metafile = true
 
 [[files]]
 file = "mods/geore.pw.toml"
-hash = "e1d5519a2c41230e50c3c0be8675b82ea7dafb026143b3cc4e7d7869f471f031"
+hash = "dd3ab7e98c2a8317149a1b23f1f43d269f72115d3f6ea6f6d3a07bc49dbccd0d"
 metafile = true
 
 [[files]]
@@ -1610,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "6cd1a159d828605ea0e1b3a0392ed6b38a81608dc936c539e484799024b2017a"
+hash = "692cfbdf8d99f846abd5e2083fcbaa3e0fd8af6e26138cb2d4952456709f00c5"
 metafile = true
 
 [[files]]
@@ -1625,17 +1625,17 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1c6c4862ca39adcd77485c161ae89fe6989c926c2d98f528a14598acdd56da97"
+hash = "352bbd56bffa7bb7af6e16ae0e745db85e2d7e9e0ea6037ff866149f6e6e08b8"
 metafile = true
 
 [[files]]
 file = "mods/irons-jewelry.pw.toml"
-hash = "0ad35bf833da550d79a67b18510211caaed83a3b992a6c95927a64258fcc6660"
+hash = "c66c9158b402d8208abc6ff9e49af3575b6592f8fcdab75bee1733210ec90f99"
 metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "2bd52e5870ed1d6581147f498c945e1ae0296ff52580311dff179d8a836502e8"
+hash = "cacf3e0e610592fb65c240403745562f9c4eff0bad10a1d7a5e92d2d5eb5f8ae"
 metafile = true
 
 [[files]]
@@ -1660,7 +1660,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-another-witchery-remake.pw.toml"
-hash = "26fae1546cc2738c84cfc3412f346f3272efc85356f2831748c0c0ce19ae541a"
+hash = "f8a757973eafcc3e0f18df4cc41cb93c4e67b5e8d48d5d96250ea1e705942245"
 metafile = true
 
 [[files]]
@@ -1820,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-bows-and-arrows.pw.toml"
-hash = "849fc595156d9feaf5b38762fd0d6bea08e9e5b24071cf80f58e4f697639e631"
+hash = "9532cd0455bb7cad8ebaaa5ec83888ee63d92f1baf65d7686e86394f6c8dd9c3"
 metafile = true
 
 [[files]]
@@ -1975,7 +1975,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "6f8063ef991eb6bac1319c2bb07fa56a848985a198b5ff45310342d1e00daeba"
+hash = "35eb897c9736c48125a8f86253bc5c0f6f1b3891127d7c300d00b0339167cd36"
 metafile = true
 
 [[files]]
@@ -2125,7 +2125,7 @@ metafile = true
 
 [[files]]
 file = "mods/stitch.pw.toml"
-hash = "f9e13b44a817b078be83092f2a5e4aa3dc13bcce428101b52159a2703798a1ed"
+hash = "e1599947a8d78f74c129a8420569bb2453b2ce76fdc76a7151093923ea8366c9"
 metafile = true
 
 [[files]]
@@ -2195,7 +2195,7 @@ metafile = true
 
 [[files]]
 file = "mods/toms-storage.pw.toml"
-hash = "a01818e59dbdb67fa1cf073418f333b94b0f8ea78039f7f46cbe039628ee6645"
+hash = "27f23c2bc5266717f83de1376149ed67107630e0e89f21ec204aa806a448dcfe"
 metafile = true
 
 [[files]]

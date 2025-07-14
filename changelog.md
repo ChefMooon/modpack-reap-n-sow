@@ -19,3 +19,21 @@
 - structurize-1.0.779-1.21.1-snapshot -> structurize-1.0.780-1.21.1-snapshot
 - domum-ornamentum-1.0.213-snapshot-main -> domum-ornamentum-1.0.218-snapshot-main
 - stylecolonies-1.15.15-1.21.1-snapshot -> stylecolonies-1.15.17-1.21.1-snapshot
+- more_bows_and_arrows-merged-1.21.1-4.0.0 -> more_bows_and_arrows-merged-1.21.1-5.0.0
+- arts_and_crafts-neoforge-1.21.1-1.4.3 -> arts_and_crafts-neoforge-1.21.1-1.5.1
+- BEB-NeoForge-1.21-4.0.0 -> BEB-NeoForge-1.21-5.0.0 (Beautiful Enchanted Books)
+- athena-neoforge-1.21-4.0.1 -> athena-neoforge-1.21-4.0.2
+- friendsandfoes-neoforge-4.0.5+mc1.21.1 -> friendsandfoes-neoforge-4.0.7+mc1.21.1
+- exposure-neoforge-1.21.1-1.9.7 -> exposure-neoforge-1.21.1-1.9.10
+- irons_spellbooks-1.21.1-3.12.1 -> irons_spellbooks-1.21.1-3.13.1
+- irons_jewelry-1.21.1-1.4.1.jar -> irons_jewelry-1.21.1-1.5.0.jar
+- witchery-neoforge-0.3.5 -> witchery-neoforge-0.3.6
+- corpse-neoforge-1.21.1-1.1.5 -> corpse-neoforge-1.21.1-1.1.10
+- iris-neoforge-1.8.8+mc1.21.1 -> iris-neoforge-1.8.12+mc1.21.1
+- ars_nouveau-1.21.1-5.8.3-all -> ars_nouveau-1.21.1-5.10.1
+- Ars Artillery 1.21.1-1.0 -> Ars Artillery 1.21.1-1.1
+- GeOre-1.21.1-6.0.8 -> GeOre-1.21.1-6.1.0
+- GeOre_Nouveau-1.21.1-0.5.3 -> GeOre_Nouveau-1.21.1-0.5.4
+- immersive_aircraft-1.3.2+1.21.1-neoforge -> immersive_aircraft-1.3.3+1.21.1-neoforge
+- refurbished_furniture-neoforge-1.21.1-1.0.12 -> refurbished_furniture-neoforge-1.21.1-1.0.16
+- toms_storage-1.21-2.1.4 -> toms_storage-1.21-2.2.1
