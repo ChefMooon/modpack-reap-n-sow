@@ -18,3 +18,4 @@
 - minecolonies-1.1.1005-1.21.1-snapshot -> minecolonies-1.1.1037-1.21.1-snapshot
 - structurize-1.0.779-1.21.1-snapshot -> structurize-1.0.780-1.21.1-snapshot
 - domum-ornamentum-1.0.213-snapshot-main -> domum-ornamentum-1.0.218-snapshot-main
+- stylecolonies-1.15.15-1.21.1-snapshot -> stylecolonies-1.15.17-1.21.1-snapshot
