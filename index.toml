@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "c1dffe4dd3319e96eb8509ba7b82de6d11ba9059e74fe10a8f77b3fb95d4449c"
+hash = "2ca13a10033918d129dec55326be1aca2183a41921d603c92a100ee8c55fe8d1"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1350,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "757d82d85e87524e67e5f86a0e662b1b1263846d73d98f4da098730ee499ecdf"
+hash = "9d614d9330738bbecfef22abda669f6bec1405da9e1c3e71039a449082fa85b2"
 metafile = true
 
 [[files]]
@@ -1775,7 +1775,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "d95c8fa5405b1a4037bc9f9831daa480998e68f46e4684bde1cc17aed87bcc1b"
+hash = "d64c6f3f082d54595bac7c4a150d82eaeb3e1ab1fc0493b94a9b604175ba9438"
 metafile = true
 
 [[files]]
@@ -2120,7 +2120,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "56c8cc878e11d9610603da00e016448004a892e0967859901d90dcd0e50cd819"
+hash = "3d2cd7d5546c87bdd1991612fd63ec3a35432fe2fcef7aaa2d7e3cbb162aa183"
 metafile = true
 
 [[files]]
