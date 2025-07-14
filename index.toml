@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "changelog.md"
+hash = "c1dffe4dd3319e96eb8509ba7b82de6d11ba9059e74fe10a8f77b3fb95d4449c"
+
+[[files]]
 file = "config/CoroUtil/General.toml"
 hash = "6d46bdc090d4bb9bdfb660be4ca94075dc08e09d5fed84108eba92a422a23c49"
 
@@ -1069,6 +1073,11 @@ metafile = true
 [[files]]
 file = "mods/chimes.pw.toml"
 hash = "5f0d87ae88243df2390d5d8a2b0fdf312382ccae83084c9a1ba807c08fbcc013"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "3024466ae43de66612dc5ec4cfe5b3a273f71cee29fc6940308798a817d561b6"
 metafile = true
 
 [[files]]
