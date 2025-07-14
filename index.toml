@@ -1845,6 +1845,11 @@ hash = "404115cae5f1208950ab2698bd65b5df7bd82990d1ffa28144195702290de900"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-pots.pw.toml"
+hash = "4dff905c1b13ef8f6ca9d60238a462f3d263f344e7f368cf397106c6406d1f73"
+metafile = true
+
+[[files]]
 file = "mods/oceans-delight.pw.toml"
 hash = "60959e2d411a9a57e1eb3f64d75761ee9728eb1e480e3911d6714de71c2bf51f"
 metafile = true
@@ -1912,6 +1917,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "08c5f8baa25f2f83f5b816368ec63fc3bbb4c60a243d63386e2d58d8c43c9b75"
+metafile = true
+
+[[files]]
+file = "mods/potted-delight.pw.toml"
+hash = "78fa008054ad4ec1d4e077f23f7973012b849fa5e4e43bf7f8cf7d86f8734ec1"
 metafile = true
 
 [[files]]
