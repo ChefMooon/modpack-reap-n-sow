@@ -6,6 +6,10 @@
 - Not Enough Pots
 - Potted Delight
 - Chipped
+- Rechiseled: Chipped
+- Create: Integrated Farming
+- Create More: Linked Remote
+- Create More: Parallel Pipes
 
 ### Updated
 - differentdoors-neoforge-1.21.1-1.0.0-beta-1 -> differentdoors-neoforge-1.21.1-1.0.0-beta-2

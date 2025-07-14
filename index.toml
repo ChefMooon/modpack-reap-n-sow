@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "2ca13a10033918d129dec55326be1aca2183a41921d603c92a100ee8c55fe8d1"
+hash = "9d5d70bf29e018d32cb8237acfd41b1140a8b14e9783b8f84a86e55be8294368"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1250,6 +1250,11 @@ hash = "2ccb391a7db9e512e51845f595f7c36af6cb7e48d5174fec22ecb0eba26b1b54"
 metafile = true
 
 [[files]]
+file = "mods/create-integrated-farming.pw.toml"
+hash = "230422ff1bab935c2ed7354ef92bbff82fbef22616fc4dbf3547a74dfbcb8554"
+metafile = true
+
+[[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "3f6a414a28eb5796fcb963531cada1716e4054acc6b4fa05b08341fc6df0c202"
 metafile = true
@@ -1267,6 +1272,16 @@ metafile = true
 [[files]]
 file = "mods/create-molten-vents.pw.toml"
 hash = "78aad9b2a50a79d81ff116a7566e9e68cf04bbad17427130b85e012b85bcc4f0"
+metafile = true
+
+[[files]]
+file = "mods/create-more-linked-remote.pw.toml"
+hash = "3a15fc4ef55e39b78885ce32d4973645174f95ac8b8da34cdd1f9a4d8078cd45"
+metafile = true
+
+[[files]]
+file = "mods/create-more-parallel-pipes.pw.toml"
+hash = "4c94959f07a6b1c768eefc8030def709126817d0d63bfddf64315e1b5e8b4bd2"
 metafile = true
 
 [[files]]
@@ -1941,6 +1956,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "6b8153ddabbacbde1bae8fe5b763fcf9aef674c7060a228a03b61d73bc5c3314"
+metafile = true
+
+[[files]]
+file = "mods/rechiseled-chipped.pw.toml"
+hash = "612c164e5085e12f5976abe5489521a90f1b9e130d0714ce5e284b3fde788f31"
 metafile = true
 
 [[files]]
