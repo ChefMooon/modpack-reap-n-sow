@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "1f9289968f9275549bd5a4642e8196bf7a117c28728f0f5f5245680930aaab8e"
+hash = "d1176b593c9bac15f555256c682fdf9fb6d8d13f835a66f807a5608eacaf02df"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1027,7 +1027,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me.pw.toml"
-hash = "114295811447c4eda1cff5efa4555a312458f4de598b4ca186ec6f3f98f879ae"
+hash = "ffb6dd12ef7c32549d88f9c2c6710cfa415728d48c3e33cf5673d324c92a8ce8"
 metafile = true
 
 [[files]]
@@ -1083,11 +1083,6 @@ metafile = true
 [[files]]
 file = "mods/choicetheorems-overhauled-village.pw.toml"
 hash = "a420a29256413ef0b90d15f6c8b440b5309a4afc4c1aad92b80c4dd9a14786ba"
-metafile = true
-
-[[files]]
-file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7be63eaec6a70605f2f21cc30f0889fb27978c2e2fe62ee4584210502289e77d"
 metafile = true
 
 [[files]]
@@ -1360,7 +1355,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "e74bb6700a9887dd57d628008493ddf491542f31a2fe5f45097216f313335aff"
+hash = "c1d310c4dc08bd7e6a4bb08eb8a3e192eb86c390487e36ca9c04d9815e2d79c1"
 metafile = true
 
 [[files]]
