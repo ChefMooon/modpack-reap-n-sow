@@ -1,5 +1,10 @@
 # Reap N' Sow Changelog
 
+## 1.3.2
+
+### Updated
+- colourfulclocks-neoforge-1.21.1-0.2.0-beta-3 -> colourfulclocks-neoforge-1.21.1-0.2.0-beta-4
+
 ## 1.3.1
 
 ### Updated

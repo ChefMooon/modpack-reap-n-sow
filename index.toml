@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "243e36e9da3cdb662aa5ab1216b3e77759995ae5b9519a48f157d52431befade"
+hash = "2dd5a9b7af4f03aa4ec2605012428a327240f1cb97c42761e422ff6efe34e563"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1106,8 +1106,8 @@ hash = "d3c143c5b518d2a57888cf1916e06bdb0f50e83b8341bf65885cdc769886647f"
 metafile = true
 
 [[files]]
-file = "mods/colourfulclocks-neoforge-1.21.1-0.2.0-beta-3.jar"
-hash = "81652150bd8f8531e58855d2e4a7d485c6c136e56050f91b4978488398da2627"
+file = "mods/colourfulclocks-neoforge-1.21.1-0.2.0-beta-4.jar"
+hash = "e49701a4c4810bcf63330bdd22f64d81fcb87b2854e6627b83f36fcc81c09ada"
 
 [[files]]
 file = "mods/comforts.pw.toml"
