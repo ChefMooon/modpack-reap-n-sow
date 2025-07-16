@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "d1176b593c9bac15f555256c682fdf9fb6d8d13f835a66f807a5608eacaf02df"
+hash = "243e36e9da3cdb662aa5ab1216b3e77759995ae5b9519a48f157d52431befade"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -1345,8 +1345,8 @@ hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
 
 [[files]]
-file = "mods/differentdoors-neoforge-1.21.1-1.0.0-beta-2.jar"
-hash = "e05091db86079025aa27cb73210d026fd291e5dd693253e7a0898aa61d34a670"
+file = "mods/differentdoors-neoforge-1.21.1-1.0.0-beta-3.jar"
+hash = "7624af41c240a2d2cfbbfee28e406da203bf85f436ad5dc02b2b3fd5eff6bbad"
 
 [[files]]
 file = "mods/display-delight.pw.toml"
