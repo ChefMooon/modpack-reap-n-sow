@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "changelog.md"
-hash = "2dd5a9b7af4f03aa4ec2605012428a327240f1cb97c42761e422ff6efe34e563"
+hash = "3d114b24300c134ed05a9c47bd935fc1317ef7dbfb4f14b669343557c7701276"
+
+[[files]]
+file = "complementary-reimagined.pw.toml"
+hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
+metafile = true
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -801,6 +806,11 @@ file = "config/xaeroworldmap.txt"
 hash = "ada7ab7e75e41608bad88c4f3857a682d784ed17d8bc13e993a18baefb3cec01"
 
 [[files]]
+file = "makeup-ultra-fast-shader.pw.toml"
+hash = "f0859919ff743429a8e44c7e2749203677d15cb873029fdd6062e2282723b648"
+metafile = true
+
+[[files]]
 file = "mods/advanced-peripherals.pw.toml"
 hash = "d370dc4dd269f9a066b1e875bb5c5cc196b2f788a744aad6f466f21e24a11b3a"
 metafile = true
@@ -1345,8 +1355,8 @@ hash = "4c49bcbf4236ebf3eff68e66671c7129193df464cbdae9cdcac2346e848b8c4d"
 metafile = true
 
 [[files]]
-file = "mods/differentdoors-neoforge-1.21.1-1.0.0-beta-4.jar"
-hash = "9e62cce65497d5609955f2fcbac92158b4b2bb2c3ace9274f126dadf89ae0504"
+file = "mods/differentdoors-neoforge-1.21.1-1.0.0-beta-5.jar"
+hash = "a18bb810ffa0c898f7429a07ed35472b797613c1394cb53b60b0a6cc4df952f6"
 
 [[files]]
 file = "mods/display-delight.pw.toml"
@@ -1576,6 +1586,11 @@ metafile = true
 [[files]]
 file = "mods/handcrafted.pw.toml"
 hash = "d573695d37296209dc06495d359c4b283ffa6640bcfe8aa9c9b59eb420891788"
+metafile = true
+
+[[files]]
+file = "mods/hearth-and-harvest.pw.toml"
+hash = "08da1131aa712fdba3cf35f86a68cda284ea5b23514a744be12b4560a7acd2cb"
 metafile = true
 
 [[files]]

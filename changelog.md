@@ -1,5 +1,16 @@
 # Reap N' Sow Changelog
 
+## 1.3.3
+
+### Added 
+- hearthandharvest-1.21.1-1.0.11
+- Shaders
+    - makeup-ultra-fast-shader
+    - complementary-reimagined
+
+### Updated
+- differentdoors-neoforge-1.21.1-1.0.0-beta-4 -> differentdoors-neoforge-1.21.1-1.0.0-beta-5
+
 ## 1.3.2
 
 ### Updated
