@@ -1,5 +1,10 @@
 # Reap N' Sow Changelog
 
+## 1.3.4
+
+### Updated
+- hearthandharvest-1.21.1-1.0.11 -> hearthandharvest-1.21.1-1.0.12
+
 ## 1.3.3
 
 ### Added 

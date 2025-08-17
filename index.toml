@@ -1586,7 +1586,7 @@ metafile = true
 
 [[files]]
 file = "mods/hearth-and-harvest.pw.toml"
-hash = "08da1131aa712fdba3cf35f86a68cda284ea5b23514a744be12b4560a7acd2cb"
+hash = "f9185d78b786d6bc8f587273cf362cfdcb5c3e47ce86db2dae79a25d8241376a"
 metafile = true
 
 [[files]]
