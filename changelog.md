@@ -3,6 +3,11 @@
 ## 1.3.4
 
 ### Updated
+- differentdoors-neoforge-1.21.1-1.0.0-beta-5 -> differentdoors-neoforge-1.21.1-1.0.0-beta-7
+
+## 1.3.3.1
+
+### Updated
 - hearthandharvest-1.21.1-1.0.11 -> hearthandharvest-1.21.1-1.0.12
 
 ## 1.3.3
