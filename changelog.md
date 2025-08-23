@@ -1,5 +1,10 @@
 # Reap N' Sow Changelog
 
+## 1.3.5
+
+### Updated
+- FarmersDelight-1.21.1-1.2.8 -> FarmersDelight-1.21.1-1.2.9
+
 ## 1.3.4
 
 ### Updated
