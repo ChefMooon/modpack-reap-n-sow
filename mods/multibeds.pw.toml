@@ -1,13 +1,13 @@
 name = "MultiBeds"
-filename = "multibeds-neoforge-1.21.1-0.1.jar"
+filename = "multibeds-neoforge-1.21.1-1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "3cc1ac0bb68d1330a3186b0f13a0df6a5485b40d"
+hash = "c5fa933272d60900411e5a71df62965025ca1d7c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6044548
+file-id = 6913854
 project-id = 244858

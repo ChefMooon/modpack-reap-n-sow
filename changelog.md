@@ -13,10 +13,12 @@
 - cratedelight-24.11.22-1.21-neoforge.jar -> cratedelight-25.08.08-1.21-neoforge.jar
 - MyNethersDelight-1.21.1-1.8.jar -> MyNethersDelight-1.21.1-1.9.jar
 - minecolonies-1.1.1037-1.21.1-snapshot.jar -> minecolonies-1.1.1111-1.21.1-snapshot.jar
-- stylecolonies-1.15.17-1.21.1-snapshot.jar -> stylecolonies-1.15.29-1.21.1.jar
-- structurize-1.0.780-1.21.1-snapshot.jar -> structurize-1.0.787-1.21.1-snapshot.jar
-- domum-ornamentum-1.0.218-snapshot-main.jar -> domum-ornamentum-1.0.221-snapshot-main.jar
-- 
+    - stylecolonies-1.15.17-1.21.1-snapshot.jar -> stylecolonies-1.15.29-1.21.1.jar
+    - structurize-1.0.780-1.21.1-snapshot.jar -> structurize-1.0.787-1.21.1-snapshot.jar
+    - domum-ornamentum-1.0.218-snapshot-main.jar -> domum-ornamentum-1.0.221-snapshot-main.jar
+- multibeds-neoforge-1.21.1-0.1.jar -> multibeds-neoforge-1.21.1-1.0.jar
+    - shetiphiancore-neoforge-1.21.1-0.3.jar -> shetiphiancore-neoforge-1.21.1-1.0.jar
+- DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge.jar -> DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar
 
 ## 1.3.5
 

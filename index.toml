@@ -1361,7 +1361,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "c1d310c4dc08bd7e6a4bb08eb8a3e192eb86c390487e36ca9c04d9815e2d79c1"
+hash = "aa0c2ab534fe56d93d1fb1d25be0a3613c9b05a1cbd5d3be9b72f10179c56232"
 metafile = true
 
 [[files]]
@@ -1826,7 +1826,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-bows-and-arrows.pw.toml"
-hash = "9532cd0455bb7cad8ebaaa5ec83888ee63d92f1baf65d7686e86394f6c8dd9c3"
+hash = "af617c8d83ccdea702664df60589e05f47fd15fc8aeba969ea7b659d322112c8"
 metafile = true
 
 [[files]]
@@ -1846,7 +1846,7 @@ metafile = true
 
 [[files]]
 file = "mods/multibeds.pw.toml"
-hash = "25a3208d521f2af8ec7176871df7a7cdaf6637c57952716e0e2c4484668aaf7b"
+hash = "e626b451926303db68686850c834ae280cd1556c95b6e65304140166a7f7d20d"
 metafile = true
 
 [[files]]
@@ -2041,7 +2041,7 @@ metafile = true
 
 [[files]]
 file = "mods/shetiphiancore.pw.toml"
-hash = "c46f4a42b155a73db6b22e423220f139dd39186ff193728214fc94c5342d7f86"
+hash = "1445cd1fa6a5310b2d72322c264e36e5184591d0f41f8bf10afbaf0c1c6beadf"
 metafile = true
 
 [[files]]
