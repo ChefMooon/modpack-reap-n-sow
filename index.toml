@@ -1157,7 +1157,7 @@ metafile = true
 
 [[files]]
 file = "mods/crabbers-delight.pw.toml"
-hash = "253cc8445286e13bb74ea6f9886cfda9fec39257fc86f10ebb537ff663c83efa"
+hash = "24880bc3759bac528c2ef8ab201cf63a1b876473b8f3648599cf54af6951b9f9"
 metafile = true
 
 [[files]]
@@ -1167,7 +1167,7 @@ metafile = true
 
 [[files]]
 file = "mods/crate-delight-forge.pw.toml"
-hash = "afe7cf9b4540f876c5d6a7c7b41ed09ff476766f4d31e03d679a191c8bb71a69"
+hash = "885bcd546cc1faecb75273dc2213c7a95620a6b5e6cd7de04e16ac9f6541b61d"
 metafile = true
 
 [[files]]
@@ -1446,7 +1446,7 @@ metafile = true
 
 [[files]]
 file = "mods/expanded-delight.pw.toml"
-hash = "a7134259f5e10ba4130fcec0666039c9decae5dc69944d90ec31a22a31c89c25"
+hash = "185dc7e1464619fb2ad99c634fc327b554b6a1a9484db24ba6ee8640cca129df"
 metafile = true
 
 [[files]]
@@ -1521,7 +1521,7 @@ metafile = true
 
 [[files]]
 file = "mods/fruits-delight.pw.toml"
-hash = "51de6717e00fb21ada191f2e2bb572c156d6e482d6b873c99852b910e323f821"
+hash = "d465247588521fb4376848b89cd5a3120bb32344a221b60e4235c79ca9c9269e"
 metafile = true
 
 [[files]]
@@ -1586,7 +1586,7 @@ metafile = true
 
 [[files]]
 file = "mods/hearth-and-harvest.pw.toml"
-hash = "f9185d78b786d6bc8f587273cf362cfdcb5c3e47ce86db2dae79a25d8241376a"
+hash = "6c5a321000adcf0615631f28074c44971caa860671f7fbe239e332c874a33ce4"
 metafile = true
 
 [[files]]
@@ -1851,7 +1851,7 @@ metafile = true
 
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
-hash = "06e9f867e1bde3ab201aba7e7347995efa7281983a0c1ac00836641d6b758bc6"
+hash = "0311de96add459a26f7411925de34327312a04f1efda04d3b94c1a87bd7ebd9d"
 metafile = true
 
 [[files]]
@@ -2246,12 +2246,12 @@ metafile = true
 
 [[files]]
 file = "mods/twilights-flavors-delight.pw.toml"
-hash = "b56af35f45fc27b1462dba5d2c9646056701499ac1314518cff9f7e3ee6e14d9"
+hash = "8d10a76ca5166a1d1a084faa56ccc19b4b78ba5c7a9eba1e248045d147cabcd8"
 metafile = true
 
 [[files]]
 file = "mods/ubes-delight.pw.toml"
-hash = "eeb86835f8cc88e006d8f1ada1d054fea18b1edec8820c889902362de096eba3"
+hash = "f903764b97cd498695164358e073d79ca4093a5c384904fb4ab048b8b18a07b2"
 metafile = true
 
 [[files]]

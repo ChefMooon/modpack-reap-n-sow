@@ -4,6 +4,15 @@
 
 ### Updated
 - differentdoors-neoforge-1.21.1-1.0.0-beta-7 -> differentdoors-neoforge-1.21.1-1.0.0-beta-9
+- hearthandharvest-1.21.1-1.0.12 -> hearthandharvest-1.21.1-1.0.12
+- crabbersdelight-1.21.1-1.1.10.jar -> crabbersdelight-1.21.1-1.1.10.jar
+- ubesdelight-neoforge-1.21.1-0.4.1.jar -> ubesdelight-neoforge-1.21.1-0.4.3.jar
+- twilightdelight-3.0.4.jar -> twilightdelight-3.0.6.jar
+- fruitsdelight-1.2.8.jar -> fruitsdelight-1.2.10.jar
+- expandeddelight-0.1.3.1.jar -> expandeddelight-0.1.3.2.jar
+- cratedelight-24.11.22-1.21-neoforge.jar -> cratedelight-25.08.08-1.21-neoforge.jar
+- MyNethersDelight-1.21.1-1.8.jar -> MyNethersDelight-1.21.1-1.9.jar
+- 
 
 ## 1.3.5
 
