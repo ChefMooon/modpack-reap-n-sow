@@ -5,20 +5,21 @@
 ### Updated
 - differentdoors-neoforge-1.21.1-1.0.0-beta-7 -> differentdoors-neoforge-1.21.1-1.0.0-beta-9
 - hearthandharvest-1.21.1-1.0.12 -> hearthandharvest-1.21.1-1.0.12
-- crabbersdelight-1.21.1-1.1.10.jar -> crabbersdelight-1.21.1-1.1.10.jar
-- ubesdelight-neoforge-1.21.1-0.4.1.jar -> ubesdelight-neoforge-1.21.1-0.4.3.jar
-- twilightdelight-3.0.4.jar -> twilightdelight-3.0.6.jar
-- fruitsdelight-1.2.8.jar -> fruitsdelight-1.2.10.jar
-- expandeddelight-0.1.3.1.jar -> expandeddelight-0.1.3.2.jar
-- cratedelight-24.11.22-1.21-neoforge.jar -> cratedelight-25.08.08-1.21-neoforge.jar
-- MyNethersDelight-1.21.1-1.8.jar -> MyNethersDelight-1.21.1-1.9.jar
-- minecolonies-1.1.1037-1.21.1-snapshot.jar -> minecolonies-1.1.1111-1.21.1-snapshot.jar
-    - stylecolonies-1.15.17-1.21.1-snapshot.jar -> stylecolonies-1.15.29-1.21.1.jar
-    - structurize-1.0.780-1.21.1-snapshot.jar -> structurize-1.0.787-1.21.1-snapshot.jar
-    - domum-ornamentum-1.0.218-snapshot-main.jar -> domum-ornamentum-1.0.221-snapshot-main.jar
-- multibeds-neoforge-1.21.1-0.1.jar -> multibeds-neoforge-1.21.1-1.0.jar
-    - shetiphiancore-neoforge-1.21.1-0.3.jar -> shetiphiancore-neoforge-1.21.1-1.0.jar
-- DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge.jar -> DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge.jar
+- crabbersdelight-1.21.1-1.1.10 -> crabbersdelight-1.21.1-1.1.10
+- ubesdelight-neoforge-1.21.1-0.4.1 -> ubesdelight-neoforge-1.21.1-0.4.3
+- twilightdelight-3.0.4 -> twilightdelight-3.0.6
+- fruitsdelight-1.2.8 -> fruitsdelight-1.2.10
+- expandeddelight-0.1.3.1 -> expandeddelight-0.1.3.2
+- cratedelight-24.11.22-1.21-neoforge -> cratedelight-25.08.08-1.21-neoforge
+- MyNethersDelight-1.21.1-1.8 -> MyNethersDelight-1.21.1-1.9
+- minecolonies-1.1.1037-1.21.1-snapshot -> minecolonies-1.1.1111-1.21.1-snapshot
+    - stylecolonies-1.15.17-1.21.1-snapshot -> stylecolonies-1.15.29-1.21.1
+    - structurize-1.0.780-1.21.1-snapshot -> structurize-1.0.787-1.21.1-snapshot
+    - domum-ornamentum-1.0.218-snapshot-main -> domum-ornamentum-1.0.221-snapshot-main
+- multibeds-neoforge-1.21.1-0.1 -> multibeds-neoforge-1.21.1-1.0
+    - shetiphiancore-neoforge-1.21.1-0.3 -> shetiphiancore-neoforge-1.21.1-1.0
+- more_bows_and_arrows-merged-1.21.1-5.0.0 -> more_bows_and_arrows-merged-1.21.1-5.0.1
+- DistantHorizons-2.3.3-b-1.21.1-fabric-neoforge -> DistantHorizons-2.3.4-b-1.21.1-fabric-neoforge
 
 ## 1.3.5
 
