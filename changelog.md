@@ -1,5 +1,10 @@
 # Reap N' Sow Changelog
 
+## 1.3.7
+
+### Updated
+- differentdoors-neoforge-1.21.1-1.0.0-beta-9 -> differentdoors-neoforge-1.21.1-1.0.0-beta-10
+
 ## 1.3.6
 
 ### Updated
