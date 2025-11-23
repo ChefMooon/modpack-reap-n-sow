@@ -1,13 +1,13 @@
 name = "GuideME"
-filename = "guideme-21.1.9.jar"
+filename = "guideme-21.1.15.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7a50b822de6519a796e25d79201c865cfc6b8e3d"
+hash = "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6488254
+file-id = 7127444
 project-id = 1173950

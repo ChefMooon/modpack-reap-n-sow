@@ -1,13 +1,13 @@
 name = "Fright's Delight"
-filename = "frightsdelight-neoforge-1.21.1-1.3.3.jar"
+filename = "frightsdelight-neoforge-1.21.1-1.4.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "e9e8e5feaf7de4190d3c66ba66a53507ee986bb9"
+hash = "cce01f9012d8a801c52e38bef2da57f074f082de"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6599214
+file-id = 7195876
 project-id = 927591

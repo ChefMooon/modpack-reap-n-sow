@@ -5,3 +5,5 @@
 *.mrpack
 
 *.dat
+
+.vscode

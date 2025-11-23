@@ -1,13 +1,13 @@
 name = "Hey Wiki"
-filename = "heywiki-neoforge-1.7.5+1.21.1.jar"
+filename = "heywiki-neoforge-1.7.7+1.21.1.jar"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "e675bf720a0dce0a4e0550d682432a3bf0920031"
+hash = "4cab46bfb2ecb7a6b57614761dad12414079ef83"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6459101
+file-id = 7089297
 project-id = 997027
