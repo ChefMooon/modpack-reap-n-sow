@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".vscode/tasks.json"
-hash = "5628a757c3f19056e84518a04c52cee42aa0504b27423c58ae6e2503d0d3efe7"
-
-[[files]]
 file = "complementary-reimagined.pw.toml"
 hash = "77648e26296071f790bea303b2b2c171b64681385e5b3bacada7d9f75dd54297"
 metafile = true
