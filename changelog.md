@@ -4,6 +4,12 @@
 
 ### Updated
 
+- breezebounce-neoforge-1.21.1-1.3.0-beta-2 -> breezebounce-neoforge-1.21.1-1.3.0-beta-3
+
+## 1.4.2
+
+### Updated
+
 - breezebounce-neoforge-1.21.1-1.3.0-beta-1 -> breezebounce-neoforge-1.21.1-1.3.0-beta-2
 
 ## 1.4.1
