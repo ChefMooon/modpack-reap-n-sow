@@ -1,5 +1,11 @@
 # Reap N' Sow Changelog
 
+## 1.4.7
+
+### Updated
+
+- breezebounce-neoforge-1.21.1-1.3.0-beta-6 -> breezebounce-neoforge-1.21.1-1.3.0-beta-7
+
 ## 1.4.6
 
 ### Updated
